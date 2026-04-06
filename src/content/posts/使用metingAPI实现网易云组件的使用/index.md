@@ -2,7 +2,7 @@
 title: 使用metingAPI项目对网易云进行调用
 published: 2026-04-06
 pinned: true
-description: 这是一个简单的教程.
+description: 网易云time.
 tags: [Markdown, Blogging, metingAPI]
 category: Examples
 licenseName: "Unlicensed"
