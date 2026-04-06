@@ -12,14 +12,8 @@ draft: false
 date: 2025-01-20
 image: "./cover.png"
 pubDate: 2025-01-20
-permalink: "encrypted-example"通过metingAPI来使用Mizuki模板网易云音乐接口
+permalink: "encrypted-example"
 ---
-
-
-
-# metingAPI来使用Mizuki模板网易云音乐接口
-
-
 
 ## 通过metingAPI来使用Mizuki模板的网易云音乐接口
 
