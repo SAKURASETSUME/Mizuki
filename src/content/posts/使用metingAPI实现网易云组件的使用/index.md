@@ -10,7 +10,7 @@ author: Rin
 sourceLink: "https://github.com/SAKURASETSUME"
 draft: false
 date: 2025-01-20
-image: "imgs\cover.png"
+image: "imgs/cover.png"
 pubDate: 2026-04-06
 permalink: "encrypted-example"
 ---
