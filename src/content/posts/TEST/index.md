@@ -1,6 +1,6 @@
 ---
 title: 测试
-published: 2026-04-6
+published: 2026-04-06
 pinned: true
 description: A simple example of a Markdown blog post.
 tags: [Markdown, Blogging]
