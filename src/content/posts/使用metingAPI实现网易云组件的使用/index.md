@@ -23,13 +23,13 @@ permalink: "encrypted-example"
 
 [在Vercel创建网页模板](https://vercel.com/new/clone?s=https://github.com/xizeyoupan/Meting-API&showOptionalTeamCreation=false)
 
-![创建API](E:\Blog\Mizuki\src\content\posts\img\Vercel部署metingAPI\在Vercel创建API.png)
+<img src="imgs\screenshot-1.webp" alt="创建API" style="zoom:50%;" />
 
 
 
 - 创建之后看一眼url
 
-![查看URL](E:\Blog\Mizuki\src\content\posts\img\Vercel部署metingAPI\在Vercel查看URL.png)
+<img src="imgs\screenshot-2.webp" alt="查看URL" style="zoom:50%;" />
 
 
 
@@ -46,6 +46,10 @@ permalink: "encrypted-example"
 
 
 - 登陆网易云web版 点进去一首歌 打开控制台 在浏览器的请求头查看Cookie 复制
+
+
+
+<img src="imgs\screenshot-3.webp" alt="查看cookie" style="zoom: 50%;" />
 
 
 
