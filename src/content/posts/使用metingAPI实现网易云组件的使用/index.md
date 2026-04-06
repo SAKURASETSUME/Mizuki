@@ -1,6 +1,6 @@
 ---
 title: 使用metingAPI项目对网易云进行调用
-published: 2025-04-06
+published: 2026-04-06
 pinned: true
 description: 这是一个简单的教程.
 tags: [Markdown, Blogging, metingAPI]
@@ -10,8 +10,8 @@ author: Rin
 sourceLink: "https://github.com/SAKURASETSUME"
 draft: false
 date: 2025-01-20
-image: "./cover.png"
-pubDate: 2025-01-20
+image: "imgs\cover.png"
+pubDate: 2026-04-06
 permalink: "encrypted-example"
 ---
 
