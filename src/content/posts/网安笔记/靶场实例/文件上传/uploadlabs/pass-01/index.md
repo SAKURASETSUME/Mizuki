@@ -1,0 +1,18 @@
+---
+title: "pass-01"
+date: 2026-04-07
+published: 2026-04-07
+permalink: /posts/靶场实例/文件上传/uploadlabs/pass-01/
+author: Rin
+categories:
+  - 笔记
+tags:
+  - Study
+  - Linux
+---
+
+**由于passage01是直接由前端js代码验证图片格式的 那么有如下方法上传文件**
+
+### 1、F12面板直接禁用js代码 实现上传
+### 2、 将页面下载到本地(Ctrl+s) 之后在本地代码中将js的验证代码删掉 再把from标签的action属性直接定位到靶场 打开修改之后的本地页面上传即可实现
+### 3、正常上传图片格式文件 用burp抓包 直接把数据包中的格式改成php(此方法需要上传图片时与服务器端进行数据交互 如果是前端代码上传 burp无法抓包 此方法失效)

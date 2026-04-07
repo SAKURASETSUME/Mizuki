@@ -1,0 +1,42 @@
+---
+title: "文件上传基础知识"
+date: 2026-04-07
+published: 2026-04-07
+permalink: /posts/.trash/文件上传基础知识/
+author: Rin
+categories:
+  - 笔记
+tags:
+  - Study
+  - Linux
+---
+
+### 思维导图
+
+![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1627433334141-cb693e43-53e8-4e28-80b9-b2c08e23f2f6.png)
+
+```
+什么是文件上传漏洞?
+文件上传漏洞有哪些危害?
+文件上传漏洞如何查找及判断?
+文件上传漏洞有哪些需要注意的地方?
+关于文件上传漏洞在实际应用中的说明?
+```
+
+---
+
+### 利用思路
+
+![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1627433817849-28573285-fa9c-4d1d-9864-2f822f372ee5.png)
+
+### 演示案例
+
+- 常规文件上传地址的获取说明
+- 不同格式下的文件类型后门测试。
+- 配合解析漏洞下的文件类型后门测试
+- 本地文件上传漏洞靶场环境搭建测试
+- 某CMS及CVE编号文件上传漏洞测试
+
+### 涉及资源
+
+[https://github.com/c0ny1/upload-labs](https://github.com/c0ny1/upload-labs)
