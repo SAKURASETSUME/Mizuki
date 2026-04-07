@@ -1,5 +1,5 @@
 ---
-title: "Git常用命令"
+title: "初始化新仓库"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin

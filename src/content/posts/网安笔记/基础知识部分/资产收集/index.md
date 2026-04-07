@@ -1,5 +1,5 @@
 ---
-title: "资产收集"
+title: "Github监控"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin

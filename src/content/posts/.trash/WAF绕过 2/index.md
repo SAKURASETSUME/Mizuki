@@ -1,5 +1,5 @@
 ---
-title: "WAF绕过 2"
+title: "print('bypass url address:'+ urls+'|'+ str(len_r))"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin

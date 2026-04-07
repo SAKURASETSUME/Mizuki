@@ -1,5 +1,5 @@
 ---
-title: "信息收集-WAF"
+title: "unzip wafw00f-master.zip"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin

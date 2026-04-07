@@ -1,5 +1,5 @@
 ---
-title: "数据包扩展"
+title: "See https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin

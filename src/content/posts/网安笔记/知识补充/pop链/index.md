@@ -1,5 +1,5 @@
 ---
-title: "pop链"
+title: "前言"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin

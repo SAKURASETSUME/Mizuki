@@ -1,5 +1,5 @@
 ---
-title: "日志轮替"
+title: "rotate log files weekly 每周对配置文件进行一次论题"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin

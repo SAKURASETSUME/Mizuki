@@ -1,5 +1,5 @@
 ---
-title: "基本配置"
+title: "redirect server error pages to the static page /50x.html"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin

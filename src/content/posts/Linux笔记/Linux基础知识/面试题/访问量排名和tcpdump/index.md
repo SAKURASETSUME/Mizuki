@@ -1,5 +1,5 @@
 ---
-title: "访问量排名和tcpdump"
+title: "先查看内容 查看之后用awk把ip单独拿出来 排序之后计算访问个数 之后用head保留前两位"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin
