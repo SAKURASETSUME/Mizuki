@@ -293,7 +293,7 @@ export const navBarConfig: NavBarConfig = {
 					name: "Bangumi",
 					url: "https://bgm.tv/user/natsumerindaze",
 					external: true,
-					icon: "mdi:television-classicmdi:git",
+					icon: "mdi:television-classic",
 				},
 				{
 					name: "Yuque",
