@@ -1,5 +1,5 @@
 ---
-title: "zip -r archive_name.zip directory_to_compress"
+title: "Linux常用命令及知识补充"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin

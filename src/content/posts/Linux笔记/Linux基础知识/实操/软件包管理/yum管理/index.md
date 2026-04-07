@@ -1,5 +1,5 @@
 ---
-title: "清除旧缓存"
+title: "yum管理"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin

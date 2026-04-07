@@ -1,5 +1,5 @@
 ---
-title: "http://AAA.com/aaa/index.html -> URI 即AAA.com后面的路径"
+title: "基础配置"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin

@@ -1,5 +1,5 @@
 ---
-title: "先更新yum源（可选，但建议执行）"
+title: "vmtools"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin

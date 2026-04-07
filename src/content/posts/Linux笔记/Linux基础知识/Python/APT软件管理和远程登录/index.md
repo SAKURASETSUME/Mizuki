@@ -1,5 +1,5 @@
 ---
-title: "默认注释了源码镜像以提高 apt update 速度，如有需要可自行取消注释"
+title: "APT软件管理和远程登录"
 date: 2026-04-07
 published: 2026-04-07
 author: Rin
