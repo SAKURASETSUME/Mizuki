@@ -2,13 +2,15 @@
 title: "shell基础入门"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/大数据/shell基础入门/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/大数据/shell基础入门/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 大数据
+  - shell基础入门
 tags:
   - Study
-  - Linux
 ---
 
 ## 作用

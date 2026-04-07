@@ -2,13 +2,13 @@
 title: "知识补充-截取字符串函数"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/.trash/知识补充-截取字符串函数/
 author: Rin
+permalink: /posts/.trash/知识补充-截取字符串函数/
 categories:
-  - 笔记
+  - .trash
+  - 知识补充-截取字符串函数
 tags:
   - Study
-  - Linux
 ---
 
 三大法宝：mid(),substr(),left()

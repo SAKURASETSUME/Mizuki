@@ -1,22 +1,14 @@
 ---
-title: 测试
-published: 2026-04-06
-pinned: true
-description: A simple example of a Markdown blog post.
-tags: [Markdown, Blogging]
-category: Examples
-licenseName: "Unlicensed"
+title: "TEST"
+date: 2026-04-07
+published: 2026-04-07
 author: Rin
-sourceLink: "https://github.com/SAKURASETSUME"
-draft: false
-date: 2025-04-06
-image: "./cover.png"
-pubDate: 2025-04-06
-permalink: "encrypted-example"
-
+permalink: /posts/TEST/
+categories:
+  - TEST
+tags:
+  - Study
 ---
-
-
 
 ## test
 

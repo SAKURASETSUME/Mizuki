@@ -2,13 +2,13 @@
 title: "sql注入概论 2"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/.trash/sql注入概论 2/
 author: Rin
+permalink: /posts/.trash/sql注入概论 2/
 categories:
-  - 笔记
+  - .trash
+  - sql注入概论 2
 tags:
   - Study
-  - Linux
 ---
 
 在本系列课程学习中，SQL注入漏洞将是重点部分，其中SQL注入又非常复杂，区分各种数据库类型，提交方法，数据类型等注入，我们需要按部就班的学习，才能学会相关SQL注入的核心。同样此类漏洞是WEB安全中严重的安全漏洞，学习如何利用，挖掘，修复也是很重要的。

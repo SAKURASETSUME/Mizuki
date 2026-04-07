@@ -2,13 +2,16 @@
 title: "Discuz安装"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用web服务应用搭建/Nginx/线上/Discuz安装/
 author: Rin
+permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/线上/Discuz安装/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用web服务应用搭建
+  - Nginx
+  - 线上
+  - Discuz安装
 tags:
   - Study
-  - Linux
 ---
 
 ```bash

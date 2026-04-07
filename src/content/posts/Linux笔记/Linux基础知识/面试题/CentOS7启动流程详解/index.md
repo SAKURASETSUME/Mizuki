@@ -2,13 +2,15 @@
 title: "CentOS7启动流程详解"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/面试题/CentOS7启动流程详解/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/面试题/CentOS7启动流程详解/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 面试题
+  - CentOS7启动流程详解
 tags:
   - Study
-  - Linux
 ---
 
 ```txt

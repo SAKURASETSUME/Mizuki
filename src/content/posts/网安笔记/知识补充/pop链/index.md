@@ -1,14 +1,15 @@
 ---
-title: "前言"
+title: "pop链"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/知识补充/pop链/
 author: Rin
+permalink: /posts/网安笔记/知识补充/pop链/
 categories:
-  - 笔记
+  - 网安笔记
+  - 知识补充
+  - pop链
 tags:
   - Study
-  - Linux
 ---
 
 # 前言

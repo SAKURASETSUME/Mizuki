@@ -2,13 +2,15 @@
 title: "知识补充-截取字符串函数"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/web漏洞/sql注入/知识补充-截取字符串函数/
 author: Rin
+permalink: /posts/网安笔记/web漏洞/sql注入/知识补充-截取字符串函数/
 categories:
-  - 笔记
+  - 网安笔记
+  - web漏洞
+  - sql注入
+  - 知识补充-截取字符串函数
 tags:
   - Study
-  - Linux
 ---
 
 三大法宝：mid(),substr(),left()

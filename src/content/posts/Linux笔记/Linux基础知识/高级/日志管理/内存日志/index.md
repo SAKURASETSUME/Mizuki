@@ -2,13 +2,16 @@
 title: "内存日志"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/高级/日志管理/内存日志/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/高级/日志管理/内存日志/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 高级
+  - 日志管理
+  - 内存日志
 tags:
   - Study
-  - Linux
 ---
 
 ## 常用指令

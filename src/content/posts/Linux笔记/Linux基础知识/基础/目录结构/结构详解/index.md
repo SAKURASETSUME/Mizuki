@@ -2,13 +2,16 @@
 title: "结构详解"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/基础/目录结构/结构详解/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/基础/目录结构/结构详解/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 基础
+  - 目录结构
+  - 结构详解
 tags:
   - Study
-  - Linux
 ---
 
 - /bin **\[常用]** (/usr/bin  /usr/local/bin) 

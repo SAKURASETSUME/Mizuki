@@ -2,13 +2,16 @@
 title: "操作步骤"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/高级/定制自己的Linux/操作步骤/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/高级/定制自己的Linux/操作步骤/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 高级
+  - 定制自己的Linux
+  - 操作步骤
 tags:
   - Study
-  - Linux
 ---
 
 - 先在现有的linux添加一块大小为20G的硬盘 (添加为单个文件做成系统盘 不要分开)

@@ -2,13 +2,15 @@
 title: "ZJCTF 2019-NiZhuanSiWei"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/反序列化/ZJCTF 2019-NiZhuanSiWei/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/反序列化/ZJCTF 2019-NiZhuanSiWei/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - 反序列化
+  - ZJCTF 2019-NiZhuanSiWei
 tags:
   - Study
-  - Linux
 ---
 
 ```php

@@ -2,13 +2,15 @@
 title: "基本介绍"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用服务搭建/NFS/基本介绍/
 author: Rin
+permalink: /posts/Linux笔记/常用服务搭建/NFS/基本介绍/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用服务搭建
+  - NFS
+  - 基本介绍
 tags:
   - Study
-  - Linux
 ---
 
 ## 概述

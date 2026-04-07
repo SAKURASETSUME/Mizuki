@@ -1,14 +1,17 @@
 ---
-title: "redirect server error pages to the static page /50x.html"
+title: "虚拟主机与域名解析"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用web服务应用搭建/Nginx/基本使用/虚拟主机与域名解析/
 author: Rin
+permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/虚拟主机与域名解析/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用web服务应用搭建
+  - Nginx
+  - 基本使用
+  - 虚拟主机与域名解析
 tags:
   - Study
-  - Linux
 ---
 
 ## 配置域名解析

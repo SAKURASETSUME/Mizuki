@@ -2,13 +2,14 @@
 title: "APP漏洞发现"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/漏洞发现/APP漏洞发现/
 author: Rin
+permalink: /posts/网安笔记/漏洞发现/APP漏洞发现/
 categories:
-  - 笔记
+  - 网安笔记
+  - 漏洞发现
+  - APP漏洞发现
 tags:
   - Study
-  - Linux
 ---
 
 ## 一、导图

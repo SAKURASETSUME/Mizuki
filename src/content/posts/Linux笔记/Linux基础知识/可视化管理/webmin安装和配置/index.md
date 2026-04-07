@@ -2,13 +2,15 @@
 title: "webmin安装和配置"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/可视化管理/webmin安装和配置/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/可视化管理/webmin安装和配置/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 可视化管理
+  - webmin安装和配置
 tags:
   - Study
-  - Linux
 ---
 
 ## 基本介绍

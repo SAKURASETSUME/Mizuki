@@ -1,14 +1,16 @@
 ---
-title: "ok = ok"
+title: "条件判断"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/大数据/条件判断/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/大数据/条件判断/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 大数据
+  - 条件判断
 tags:
   - Study
-  - Linux
 ---
 
 ## 基本语法

@@ -2,13 +2,14 @@
 title: "代码混淆"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/WAF绕过/代码混淆/
 author: Rin
+permalink: /posts/网安笔记/WAF绕过/代码混淆/
 categories:
-  - 笔记
+  - 网安笔记
+  - WAF绕过
+  - 代码混淆
 tags:
   - Study
-  - Linux
 ---
 
 ## 一、思维导图

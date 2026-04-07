@@ -2,13 +2,14 @@
 title: "JWT安全以及预编译CASE注入"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/JAVA安全/JWT安全以及预编译CASE注入/
 author: Rin
+permalink: /posts/网安笔记/JAVA安全/JWT安全以及预编译CASE注入/
 categories:
-  - 笔记
+  - 网安笔记
+  - JAVA安全
+  - JWT安全以及预编译CASE注入
 tags:
   - Study
-  - Linux
 ---
 
 ## 一、思维导图

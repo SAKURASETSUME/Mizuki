@@ -2,13 +2,15 @@
 title: "文件上传基础知识"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/web漏洞/文件上传/文件上传基础知识/
 author: Rin
+permalink: /posts/网安笔记/web漏洞/文件上传/文件上传基础知识/
 categories:
-  - 笔记
+  - 网安笔记
+  - web漏洞
+  - 文件上传
+  - 文件上传基础知识
 tags:
   - Study
-  - Linux
 ---
 
 ### 思维导图

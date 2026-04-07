@@ -1,14 +1,13 @@
 ---
-title: "初始化新仓库"
+title: "Git常用命令"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Git常用命令/
 author: Rin
+permalink: /posts/Git常用命令/
 categories:
-  - 笔记
+  - Git常用命令
 tags:
   - Study
-  - Linux
 ---
 
 ### 仓库操作

@@ -2,13 +2,13 @@
 title: "堆叠注入"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/.trash/堆叠注入/
 author: Rin
+permalink: /posts/.trash/堆叠注入/
 categories:
-  - 笔记
+  - .trash
+  - 堆叠注入
 tags:
   - Study
-  - Linux
 ---
 
 ### 1、堆叠查询注入

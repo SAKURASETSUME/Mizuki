@@ -1,14 +1,17 @@
 ---
-title: "http://AAA.com/aaa/index.html -> URI 即AAA.com后面的路径"
+title: "基础配置"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用web服务应用搭建/Nginx/基本使用/基础配置/
 author: Rin
+permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/基础配置/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用web服务应用搭建
+  - Nginx
+  - 基本使用
+  - 基础配置
 tags:
   - Study
-  - Linux
 ---
 
 **/usr/local/nginx/conf/nginx.conf**

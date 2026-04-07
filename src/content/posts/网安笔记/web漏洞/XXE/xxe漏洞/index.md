@@ -2,13 +2,15 @@
 title: "xxe漏洞"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/web漏洞/XXE/xxe漏洞/
 author: Rin
+permalink: /posts/网安笔记/web漏洞/XXE/xxe漏洞/
 categories:
-  - 笔记
+  - 网安笔记
+  - web漏洞
+  - XXE
+  - xxe漏洞
 tags:
   - Study
-  - Linux
 ---
 
 ### 一、思维导图

@@ -2,13 +2,15 @@
 title: "while循环"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/大数据/while循环/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/大数据/while循环/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 大数据
+  - while循环
 tags:
   - Study
-  - Linux
 ---
 
 ## 基本语法1

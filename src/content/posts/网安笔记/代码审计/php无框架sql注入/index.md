@@ -1,14 +1,15 @@
 ---
-title: "一、思维导图"
+title: "php无框架sql注入"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/代码审计/php无框架sql注入/
 author: Rin
+permalink: /posts/网安笔记/代码审计/php无框架sql注入/
 categories:
-  - 笔记
+  - 网安笔记
+  - 代码审计
+  - php无框架sql注入
 tags:
   - Study
-  - Linux
 ---
 
 # 一、思维导图

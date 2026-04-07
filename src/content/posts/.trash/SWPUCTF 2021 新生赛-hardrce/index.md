@@ -2,13 +2,13 @@
 title: "SWPUCTF 2021 新生赛-hardrce"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/.trash/SWPUCTF 2021 新生赛-hardrce/
 author: Rin
+permalink: /posts/.trash/SWPUCTF 2021 新生赛-hardrce/
 categories:
-  - 笔记
+  - .trash
+  - SWPUCTF 2021 新生赛-hardrce
 tags:
   - Study
-  - Linux
 ---
 
 ```php

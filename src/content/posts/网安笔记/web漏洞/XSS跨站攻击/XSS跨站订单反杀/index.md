@@ -2,13 +2,15 @@
 title: "XSS跨站订单反杀"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/web漏洞/XSS跨站攻击/XSS跨站订单反杀/
 author: Rin
+permalink: /posts/网安笔记/web漏洞/XSS跨站攻击/XSS跨站订单反杀/
 categories:
-  - 笔记
+  - 网安笔记
+  - web漏洞
+  - XSS跨站攻击
+  - XSS跨站订单反杀
 tags:
   - Study
-  - Linux
 ---
 
 [https://xss8.cc/](https://xss8.cc/)

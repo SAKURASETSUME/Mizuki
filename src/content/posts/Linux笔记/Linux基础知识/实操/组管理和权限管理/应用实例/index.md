@@ -2,13 +2,16 @@
 title: "应用实例"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/实操/组管理和权限管理/应用实例/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/实操/组管理和权限管理/应用实例/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 实操
+  - 组管理和权限管理
+  - 应用实例
 tags:
   - Study
-  - Linux
 ---
 
 ## 实例1

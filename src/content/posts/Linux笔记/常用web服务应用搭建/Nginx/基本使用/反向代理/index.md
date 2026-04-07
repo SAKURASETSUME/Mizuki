@@ -2,13 +2,16 @@
 title: "反向代理"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用web服务应用搭建/Nginx/基本使用/反向代理/
 author: Rin
+permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/反向代理/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用web服务应用搭建
+  - Nginx
+  - 基本使用
+  - 反向代理
 tags:
   - Study
-  - Linux
 ---
 
 ## 什么是反向代理

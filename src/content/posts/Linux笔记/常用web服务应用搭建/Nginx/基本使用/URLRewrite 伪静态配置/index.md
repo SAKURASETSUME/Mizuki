@@ -1,14 +1,17 @@
 ---
-title: "redirect server error pages to the static page /50x.html"
+title: "URLRewrite 伪静态配置"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用web服务应用搭建/Nginx/基本使用/URLRewrite 伪静态配置/
 author: Rin
+permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/URLRewrite 伪静态配置/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用web服务应用搭建
+  - Nginx
+  - 基本使用
+  - URLRewrite 伪静态配置
 tags:
   - Study
-  - Linux
 ---
 
 **URLRewrite 能够隐藏服务器的真实地址**

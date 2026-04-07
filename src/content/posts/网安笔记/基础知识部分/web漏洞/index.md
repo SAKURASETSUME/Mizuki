@@ -2,13 +2,14 @@
 title: "web漏洞"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/基础知识部分/web漏洞/
 author: Rin
+permalink: /posts/网安笔记/基础知识部分/web漏洞/
 categories:
-  - 笔记
+  - 网安笔记
+  - 基础知识部分
+  - web漏洞
 tags:
   - Study
-  - Linux
 ---
 
 前言:本章节将讲解各种WEB层面上的有那些漏洞类型,俱体漏洞的危害等级，以简要的影响范围测试进行实例分析，思维导图中的漏洞也是后面我们将要学习到的各个知识点，其中针对漏洞的形成原理，如何发现，如何利用将是本章节学习的重点内容!

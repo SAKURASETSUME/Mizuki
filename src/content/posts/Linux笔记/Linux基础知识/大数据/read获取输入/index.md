@@ -2,13 +2,15 @@
 title: "read获取输入"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/大数据/read获取输入/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/大数据/read获取输入/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 大数据
+  - read获取输入
 tags:
   - Study
-  - Linux
 ---
 
 ## 基本语法

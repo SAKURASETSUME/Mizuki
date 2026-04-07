@@ -2,13 +2,16 @@
 title: "三种模式"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/实操/vi和vim编辑器/三种模式/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/实操/vi和vim编辑器/三种模式/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 实操
+  - vi和vim编辑器
+  - 三种模式
 tags:
   - Study
-  - Linux
 ---
 
 ## 正常模式

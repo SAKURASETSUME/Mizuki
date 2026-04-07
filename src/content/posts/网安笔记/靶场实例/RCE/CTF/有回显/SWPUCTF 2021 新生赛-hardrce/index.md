@@ -2,13 +2,17 @@
 title: "SWPUCTF 2021 新生赛-hardrce"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/RCE/CTF/有回显/SWPUCTF 2021 新生赛-hardrce/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/RCE/CTF/有回显/SWPUCTF 2021 新生赛-hardrce/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - RCE
+  - CTF
+  - 有回显
+  - SWPUCTF 2021 新生赛-hardrce
 tags:
   - Study
-  - Linux
 ---
 
 ```php

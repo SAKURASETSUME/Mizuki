@@ -2,13 +2,15 @@
 title: "预定义变量"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/大数据/预定义变量/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/大数据/预定义变量/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 大数据
+  - 预定义变量
 tags:
   - Study
-  - Linux
 ---
 
 ## 基本介绍

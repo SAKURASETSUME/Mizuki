@@ -2,13 +2,16 @@
 title: "基本介绍"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/实操/进程管理/基本介绍/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/实操/进程管理/基本介绍/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 实操
+  - 进程管理
+  - 基本介绍
 tags:
   - Study
-  - Linux
 ---
 
 在LINUX中 每个执行的程序都称为一个进程 每一个进程都分配一个ID号（pid 进程号）

@@ -2,13 +2,15 @@
 title: "XSS原理"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/web漏洞/XSS跨站攻击/XSS原理/
 author: Rin
+permalink: /posts/网安笔记/web漏洞/XSS跨站攻击/XSS原理/
 categories:
-  - 笔记
+  - 网安笔记
+  - web漏洞
+  - XSS跨站攻击
+  - XSS原理
 tags:
   - Study
-  - Linux
 ---
 
 ### 思维导图

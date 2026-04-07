@@ -2,13 +2,16 @@
 title: "找回root密码"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/实操/实用指令/找回root密码/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/实操/实用指令/找回root密码/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 实操
+  - 实用指令
+  - 找回root密码
 tags:
   - Study
-  - Linux
 ---
 
 ## 步骤（CentOS7.6）

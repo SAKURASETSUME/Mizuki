@@ -2,13 +2,15 @@
 title: "堡垒机简述"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用服务搭建/堡垒机-JumpServer/堡垒机简述/
 author: Rin
+permalink: /posts/Linux笔记/常用服务搭建/堡垒机-JumpServer/堡垒机简述/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用服务搭建
+  - 堡垒机-JumpServer
+  - 堡垒机简述
 tags:
   - Study
-  - Linux
 ---
 
 [堡垒机官网]([JumpServer - 开源堡垒机 - 官网](https://www.jumpserver.org/))

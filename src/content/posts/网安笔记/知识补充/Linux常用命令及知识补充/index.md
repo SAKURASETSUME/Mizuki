@@ -1,14 +1,15 @@
 ---
-title: "zip -r archive_name.zip directory_to_compress"
+title: "Linux常用命令及知识补充"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/知识补充/Linux常用命令及知识补充/
 author: Rin
+permalink: /posts/网安笔记/知识补充/Linux常用命令及知识补充/
 categories:
-  - 笔记
+  - 网安笔记
+  - 知识补充
+  - Linux常用命令及知识补充
 tags:
   - Study
-  - Linux
 ---
 
 ## 一、基本命令

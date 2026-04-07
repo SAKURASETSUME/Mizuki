@@ -1,14 +1,16 @@
 ---
-title: "先查看内容 查看之后用awk把ip单独拿出来 排序之后计算访问个数 之后用head保留前两位"
+title: "访问量排名和tcpdump"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/面试题/访问量排名和tcpdump/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/面试题/访问量排名和tcpdump/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 面试题
+  - 访问量排名和tcpdump
 tags:
   - Study
-  - Linux
 ---
 
 ```txt

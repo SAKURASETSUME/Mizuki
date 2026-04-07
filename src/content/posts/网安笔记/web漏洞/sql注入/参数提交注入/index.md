@@ -2,13 +2,15 @@
 title: "参数提交注入"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/web漏洞/sql注入/参数提交注入/
 author: Rin
+permalink: /posts/网安笔记/web漏洞/sql注入/参数提交注入/
 categories:
-  - 笔记
+  - 网安笔记
+  - web漏洞
+  - sql注入
+  - 参数提交注入
 tags:
   - Study
-  - Linux
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1623750701440-910fbead-ad66-48bf-bf97-eb5f58f83565.png)

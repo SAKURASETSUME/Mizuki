@@ -2,13 +2,16 @@
 title: "登陆注销"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/实操/开机、重启、用户登陆注销/登陆注销/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/实操/开机、重启、用户登陆注销/登陆注销/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 实操
+  - 开机、重启、用户登陆注销
+  - 登陆注销
 tags:
   - Study
-  - Linux
 ---
 
 **登录时建议尽可能少使用root登陆 因为它是系统管理员 最大的权限 避免操作失误 可以利用普通用户登录 登陆后再用 "su - 用户名" 命令来切换成系统管理员身份**

@@ -1,14 +1,16 @@
 ---
-title: "75行: 取消注释，设置hostname"
+title: "Postfix+Dovecot"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用服务搭建/邮件服务器/Postfix+Dovecot/
 author: Rin
+permalink: /posts/Linux笔记/常用服务搭建/邮件服务器/Postfix+Dovecot/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用服务搭建
+  - 邮件服务器
+  - Postfix+Dovecot
 tags:
   - Study
-  - Linux
 ---
 
 ```bash

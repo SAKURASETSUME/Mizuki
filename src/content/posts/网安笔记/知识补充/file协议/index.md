@@ -2,13 +2,14 @@
 title: "file协议"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/知识补充/file协议/
 author: Rin
+permalink: /posts/网安笔记/知识补充/file协议/
 categories:
-  - 笔记
+  - 网安笔记
+  - 知识补充
+  - file协议
 tags:
   - Study
-  - Linux
 ---
 
 ## **一、URI标准结构：协议与路径的分界**

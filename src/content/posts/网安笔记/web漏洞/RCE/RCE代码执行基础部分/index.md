@@ -2,13 +2,15 @@
 title: "RCE代码执行基础部分"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/web漏洞/RCE/RCE代码执行基础部分/
 author: Rin
+permalink: /posts/网安笔记/web漏洞/RCE/RCE代码执行基础部分/
 categories:
-  - 笔记
+  - 网安笔记
+  - web漏洞
+  - RCE
+  - RCE代码执行基础部分
 tags:
   - Study
-  - Linux
 ---
 
 在 Web 应用中有时候程序员为了考虑灵活性、简洁性，会在代码调用 代码或命令执行函数去处理。比如当应用在调用一些能将字符串转化成代 码的函数时，没有考虑用户是否能控制这个字符串，将造成代码执行漏 洞。同样调用系统命令处理，将造成命令执行漏洞。

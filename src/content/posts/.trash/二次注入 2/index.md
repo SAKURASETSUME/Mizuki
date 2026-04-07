@@ -2,13 +2,13 @@
 title: "二次注入 2"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/.trash/二次注入 2/
 author: Rin
+permalink: /posts/.trash/二次注入 2/
 categories:
-  - 笔记
+  - .trash
+  - 二次注入 2
 tags:
   - Study
-  - Linux
 ---
 
 ### 1、加解密注入

@@ -2,13 +2,15 @@
 title: "DNS基础与IP地址划分"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用服务搭建/DNS服务器/DNS基础与IP地址划分/
 author: Rin
+permalink: /posts/Linux笔记/常用服务搭建/DNS服务器/DNS基础与IP地址划分/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用服务搭建
+  - DNS服务器
+  - DNS基础与IP地址划分
 tags:
   - Study
-  - Linux
 ---
 
 ## 什么是DNS

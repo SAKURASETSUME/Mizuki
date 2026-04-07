@@ -2,13 +2,14 @@
 title: "操作系统漏洞"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/漏洞发现/操作系统漏洞/
 author: Rin
+permalink: /posts/网安笔记/漏洞发现/操作系统漏洞/
 categories:
-  - 笔记
+  - 网安笔记
+  - 漏洞发现
+  - 操作系统漏洞
 tags:
   - Study
-  - Linux
 ---
 
 ## 一、思维导图

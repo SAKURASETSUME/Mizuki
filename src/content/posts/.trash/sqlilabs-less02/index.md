@@ -2,13 +2,13 @@
 title: "sqlilabs-less02"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/.trash/sqlilabs-less02/
 author: Rin
+permalink: /posts/.trash/sqlilabs-less02/
 categories:
-  - 笔记
+  - .trash
+  - sqlilabs-less02
 tags:
   - Study
-  - Linux
 ---
 
 ### payload

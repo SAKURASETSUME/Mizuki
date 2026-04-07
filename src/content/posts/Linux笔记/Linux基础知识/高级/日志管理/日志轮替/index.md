@@ -1,14 +1,17 @@
 ---
-title: "rotate log files weekly 每周对配置文件进行一次论题"
+title: "日志轮替"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/高级/日志管理/日志轮替/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/高级/日志管理/日志轮替/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 高级
+  - 日志管理
+  - 日志轮替
 tags:
   - Study
-  - Linux
 ---
 
 ## 概念

@@ -2,13 +2,15 @@
 title: "运算符"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/大数据/运算符/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/大数据/运算符/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 大数据
+  - 运算符
 tags:
   - Study
-  - Linux
 ---
 
 ## 基本语法

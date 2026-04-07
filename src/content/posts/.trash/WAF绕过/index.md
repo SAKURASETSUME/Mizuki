@@ -1,14 +1,14 @@
 ---
-title: "print('bypass url address:'+ urls+'|'+ str(len_r))"
+title: "WAF绕过"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/.trash/WAF绕过/
 author: Rin
+permalink: /posts/.trash/WAF绕过/
 categories:
-  - 笔记
+  - .trash
+  - WAF绕过
 tags:
   - Study
-  - Linux
 ---
 
 ### 网络资源

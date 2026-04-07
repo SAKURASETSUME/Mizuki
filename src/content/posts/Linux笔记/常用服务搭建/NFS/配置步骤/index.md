@@ -2,13 +2,15 @@
 title: "配置步骤"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用服务搭建/NFS/配置步骤/
 author: Rin
+permalink: /posts/Linux笔记/常用服务搭建/NFS/配置步骤/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用服务搭建
+  - NFS
+  - 配置步骤
 tags:
   - Study
-  - Linux
 ---
 
 ## 修改主机名以及配置主机映射

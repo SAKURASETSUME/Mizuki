@@ -2,13 +2,16 @@
 title: "pass-13"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/文件上传/uploadlabs/pass-13/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/文件上传/uploadlabs/pass-13/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - 文件上传
+  - uploadlabs
+  - pass-13
 tags:
   - Study
-  - Linux
 ---
 
 ```php

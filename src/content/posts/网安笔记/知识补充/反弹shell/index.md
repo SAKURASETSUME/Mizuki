@@ -2,13 +2,14 @@
 title: "反弹shell"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/知识补充/反弹shell/
 author: Rin
+permalink: /posts/网安笔记/知识补充/反弹shell/
 categories:
-  - 笔记
+  - 网安笔记
+  - 知识补充
+  - 反弹shell
 tags:
   - Study
-  - Linux
 ---
 
 反弹shell

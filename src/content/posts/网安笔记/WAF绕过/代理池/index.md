@@ -1,14 +1,15 @@
 ---
-title: "time.sleep(3)"
+title: "代理池"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/WAF绕过/代理池/
 author: Rin
+permalink: /posts/网安笔记/WAF绕过/代理池/
 categories:
-  - 笔记
+  - 网安笔记
+  - WAF绕过
+  - 代理池
 tags:
   - Study
-  - Linux
 ---
 
 ## 一、思维导图

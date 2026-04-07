@@ -2,13 +2,16 @@
 title: "linux网络环境配置实例"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/实操/网络配置/linux网络环境配置实例/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/实操/网络配置/linux网络环境配置实例/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 实操
+  - 网络配置
+  - linux网络环境配置实例
 tags:
   - Study
-  - Linux
 ---
 
 ## 第一种方法（自动获取）

@@ -2,13 +2,16 @@
 title: "payload"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/xss跨站攻击/xsslabs/payload/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/xss跨站攻击/xsslabs/payload/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - xss跨站攻击
+  - xsslabs
+  - payload
 tags:
   - Study
-  - Linux
 ---
 
 ### payload

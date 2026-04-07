@@ -2,13 +2,14 @@
 title: "web应用漏洞探针"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/漏洞发现/web应用漏洞探针/
 author: Rin
+permalink: /posts/网安笔记/漏洞发现/web应用漏洞探针/
 categories:
-  - 笔记
+  - 网安笔记
+  - 漏洞发现
+  - web应用漏洞探针
 tags:
   - Study
-  - Linux
 ---
 
 ## 一、思维导图

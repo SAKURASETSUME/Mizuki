@@ -1,14 +1,15 @@
 ---
-title: "See https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/"
+title: "数据包扩展"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/基础知识部分/数据包扩展/
 author: Rin
+permalink: /posts/网安笔记/基础知识部分/数据包扩展/
 categories:
-  - 笔记
+  - 网安笔记
+  - 基础知识部分
+  - 数据包扩展
 tags:
   - Study
-  - Linux
 ---
 
 ### 1、http/https数据包

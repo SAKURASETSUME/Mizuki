@@ -2,13 +2,16 @@
 title: "日志管理服务"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/高级/日志管理/日志管理服务/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/高级/日志管理/日志管理服务/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 高级
+  - 日志管理
+  - 日志管理服务
 tags:
   - Study
-  - Linux
 ---
 
 ## rsyslogd

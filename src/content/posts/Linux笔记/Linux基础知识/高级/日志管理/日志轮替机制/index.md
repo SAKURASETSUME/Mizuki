@@ -2,13 +2,16 @@
 title: "日志轮替机制"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/高级/日志管理/日志轮替机制/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/高级/日志管理/日志轮替机制/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 高级
+  - 日志管理
+  - 日志轮替机制
 tags:
   - Study
-  - Linux
 ---
 
 ## 原理

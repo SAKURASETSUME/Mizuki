@@ -1,18 +1,14 @@
 ---
-title: 使用metingAPI项目对网易云进行调用
-published: 2026-04-06
-pinned: true
-description: 网易云time.
-tags: [Markdown, Blogging, metingAPI]
-category: Examples
-licenseName: "Unlicensed"
+title: "使用metingAPI实现网易云组件的使用"
+date: 2026-04-07
+published: 2026-04-07
 author: Rin
-sourceLink: "https://github.com/SAKURASETSUME"
-draft: false
-date: 2025-01-20
-image: "imgs/cover.png"
-pubDate: 2026-04-06
-permalink: "encrypted-example"
+permalink: /posts/问题集/使用metingAPI实现网易云组件的使用/
+categories:
+  - 问题集
+  - 使用metingAPI实现网易云组件的使用
+tags:
+  - Study
 ---
 
 ## 通过metingAPI来使用Mizuki模板的网易云音乐接口

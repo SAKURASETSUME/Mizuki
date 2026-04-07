@@ -2,13 +2,15 @@
 title: "系统函数"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/大数据/系统函数/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/大数据/系统函数/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 大数据
+  - 系统函数
 tags:
   - Study
-  - Linux
 ---
 
 ## 函数函数

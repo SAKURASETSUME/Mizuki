@@ -2,13 +2,16 @@
 title: "pass-10"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/文件上传/uploadlabs/pass-10/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/文件上传/uploadlabs/pass-10/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - 文件上传
+  - uploadlabs
+  - pass-10
 tags:
   - Study
-  - Linux
 ---
 
 我猛虎王又回来了

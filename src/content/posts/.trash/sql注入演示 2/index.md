@@ -2,13 +2,13 @@
 title: "sql注入演示 2"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/.trash/sql注入演示 2/
 author: Rin
+permalink: /posts/.trash/sql注入演示 2/
 categories:
-  - 笔记
+  - .trash
+  - sql注入演示 2
 tags:
   - Study
-  - Linux
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1623828836935-8e18a301-2a6e-4457-97f1-1859cd4ddb00.png)

@@ -1,14 +1,15 @@
 ---
-title: "一、思维导图"
+title: "注入上传"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/WAF绕过/注入上传/
 author: Rin
+permalink: /posts/网安笔记/WAF绕过/注入上传/
 categories:
-  - 笔记
+  - 网安笔记
+  - WAF绕过
+  - 注入上传
 tags:
   - Study
-  - Linux
 ---
 
 # 一、思维导图

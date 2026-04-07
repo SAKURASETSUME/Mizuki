@@ -2,13 +2,15 @@
 title: "编辑器安全"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/web漏洞/文件上传/编辑器安全/
 author: Rin
+permalink: /posts/网安笔记/web漏洞/文件上传/编辑器安全/
 categories:
-  - 笔记
+  - 网安笔记
+  - web漏洞
+  - 文件上传
+  - 编辑器安全
 tags:
   - Study
-  - Linux
 ---
 
 ```

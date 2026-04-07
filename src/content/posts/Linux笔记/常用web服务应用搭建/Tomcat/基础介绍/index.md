@@ -2,13 +2,15 @@
 title: "基础介绍"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用web服务应用搭建/Tomcat/基础介绍/
 author: Rin
+permalink: /posts/Linux笔记/常用web服务应用搭建/Tomcat/基础介绍/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用web服务应用搭建
+  - Tomcat
+  - 基础介绍
 tags:
   - Study
-  - Linux
 ---
 
 Tomcat 回是一个开源的Java Web应用服务器，Java Web应用服务器，这个概念听起来有点专业，但其实用通俗的语言来解释并不难理解。

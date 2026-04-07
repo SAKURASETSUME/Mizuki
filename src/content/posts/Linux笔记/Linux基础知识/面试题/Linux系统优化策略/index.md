@@ -2,13 +2,15 @@
 title: "Linux系统优化策略"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/面试题/Linux系统优化策略/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/面试题/Linux系统优化策略/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 面试题
+  - Linux系统优化策略
 tags:
   - Study
-  - Linux
 ---
 
 ```txt

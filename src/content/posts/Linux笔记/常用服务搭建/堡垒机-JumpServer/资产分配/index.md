@@ -2,13 +2,15 @@
 title: "资产分配"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用服务搭建/堡垒机-JumpServer/资产分配/
 author: Rin
+permalink: /posts/Linux笔记/常用服务搭建/堡垒机-JumpServer/资产分配/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用服务搭建
+  - 堡垒机-JumpServer
+  - 资产分配
 tags:
   - Study
-  - Linux
 ---
 
 ## 添加设备

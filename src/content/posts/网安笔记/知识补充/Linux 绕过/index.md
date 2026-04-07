@@ -2,13 +2,14 @@
 title: "Linux 绕过"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/知识补充/Linux 绕过/
 author: Rin
+permalink: /posts/网安笔记/知识补充/Linux 绕过/
 categories:
-  - 笔记
+  - 网安笔记
+  - 知识补充
+  - Linux 绕过
 tags:
   - Study
-  - Linux
 ---
 
 ## 1、绕过过滤字符

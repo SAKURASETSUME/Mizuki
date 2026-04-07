@@ -2,13 +2,16 @@
 title: "sqlilab-less01"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/sql注入/sqlilabs/sqlilab-less01/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/sql注入/sqlilabs/sqlilab-less01/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - sql注入
+  - sqlilabs
+  - sqlilab-less01
 tags:
   - Study
-  - Linux
 ---
 
 ### payload

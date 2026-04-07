@@ -2,13 +2,16 @@
 title: "pass-04"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/文件上传/uploadlabs/pass-04/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/文件上传/uploadlabs/pass-04/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - 文件上传
+  - uploadlabs
+  - pass-04
 tags:
   - Study
-  - Linux
 ---
 
 老规矩 源码直接放上来

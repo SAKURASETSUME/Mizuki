@@ -2,13 +2,15 @@
 title: "oracle,mongodb等数据库注入"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/web漏洞/sql注入/oracle,mongodb等数据库注入/
 author: Rin
+permalink: /posts/网安笔记/web漏洞/sql注入/oracle,mongodb等数据库注入/
 categories:
-  - 笔记
+  - 网安笔记
+  - web漏洞
+  - sql注入
+  - oracle,mongodb等数据库注入
 tags:
   - Study
-  - Linux
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1624337095372-9725dc09-ce09-469e-bc9e-63dffac04d31.png)

@@ -2,13 +2,16 @@
 title: "迁移和删除"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/基础/虚拟机管理/迁移和删除/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/基础/虚拟机管理/迁移和删除/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 基础
+  - 虚拟机管理
+  - 迁移和删除
 tags:
   - Study
-  - Linux
 ---
 
 ## 迁移

@@ -2,13 +2,14 @@
 title: "php伪协议总结"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/知识补充/php伪协议总结/
 author: Rin
+permalink: /posts/网安笔记/知识补充/php伪协议总结/
 categories:
-  - 笔记
+  - 网安笔记
+  - 知识补充
+  - php伪协议总结
 tags:
   - Study
-  - Linux
 ---
 
 ## PHP支持的伪协议

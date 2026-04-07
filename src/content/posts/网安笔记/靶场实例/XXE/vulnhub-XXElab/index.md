@@ -2,13 +2,15 @@
 title: "vulnhub-XXElab"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/XXE/vulnhub-XXElab/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/XXE/vulnhub-XXElab/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - XXE
+  - vulnhub-XXElab
 tags:
   - Study
-  - Linux
 ---
 
 先把虚拟机搭建起来

@@ -1,14 +1,18 @@
 ---
-title: "redirect server error pages to the static page /50x.html"
+title: "基本概念 反向代理简单配置"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用web服务应用搭建/Nginx/基本使用/负载均衡/基本概念 反向代理简单配置/
 author: Rin
+permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/负载均衡/基本概念 反向代理简单配置/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用web服务应用搭建
+  - Nginx
+  - 基本使用
+  - 负载均衡
+  - 基本概念 反向代理简单配置
 tags:
   - Study
-  - Linux
 ---
 
 ## 服务器的集群

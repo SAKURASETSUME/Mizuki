@@ -2,13 +2,16 @@
 title: "有回显的简单注入 less1-4"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/sql注入/sqlilabs/有回显的简单注入 less1-4/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/sql注入/sqlilabs/有回显的简单注入 less1-4/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - sql注入
+  - sqlilabs
+  - 有回显的简单注入 less1-4
 tags:
   - Study
-  - Linux
 ---
 
 ### payload

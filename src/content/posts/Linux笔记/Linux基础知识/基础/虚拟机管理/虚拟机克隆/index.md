@@ -2,13 +2,16 @@
 title: "虚拟机克隆"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/基础/虚拟机管理/虚拟机克隆/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/基础/虚拟机管理/虚拟机克隆/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 基础
+  - 虚拟机管理
+  - 虚拟机克隆
 tags:
   - Study
-  - Linux
 ---
 
 ## 作用

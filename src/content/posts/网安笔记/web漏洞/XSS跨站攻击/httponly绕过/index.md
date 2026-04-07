@@ -2,13 +2,15 @@
 title: "httponly绕过"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/web漏洞/XSS跨站攻击/httponly绕过/
 author: Rin
+permalink: /posts/网安笔记/web漏洞/XSS跨站攻击/httponly绕过/
 categories:
-  - 笔记
+  - 网安笔记
+  - web漏洞
+  - XSS跨站攻击
+  - httponly绕过
 tags:
   - Study
-  - Linux
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1628132918301-6d92440b-aa98-4275-a9bf-b7f7658b568a.png?x-oss-process=image%2Fresize%2Cw_908)

@@ -2,13 +2,13 @@
 title: "oracle,mongodb等数据库注入 2"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/.trash/oracle,mongodb等数据库注入 2/
 author: Rin
+permalink: /posts/.trash/oracle,mongodb等数据库注入 2/
 categories:
-  - 笔记
+  - .trash
+  - oracle,mongodb等数据库注入 2
 tags:
   - Study
-  - Linux
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1624337095372-9725dc09-ce09-469e-bc9e-63dffac04d31.png)

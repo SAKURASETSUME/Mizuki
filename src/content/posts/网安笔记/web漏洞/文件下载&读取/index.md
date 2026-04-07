@@ -2,13 +2,14 @@
 title: "文件下载&读取"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/web漏洞/文件下载&读取/
 author: Rin
+permalink: /posts/网安笔记/web漏洞/文件下载&读取/
 categories:
-  - 笔记
+  - 网安笔记
+  - web漏洞
+  - 文件下载&读取
 tags:
   - Study
-  - Linux
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1628991158390-b5543660-8083-4e31-9a9d-16edbbf6a1f0.png?x-oss-process=image%2Fresize%2Cw_1500)

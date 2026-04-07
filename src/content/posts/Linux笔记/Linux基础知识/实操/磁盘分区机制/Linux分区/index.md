@@ -2,13 +2,16 @@
 title: "Linux分区"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/实操/磁盘分区机制/Linux分区/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/实操/磁盘分区机制/Linux分区/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 实操
+  - 磁盘分区机制
+  - Linux分区
 tags:
   - Study
-  - Linux
 ---
 
 - Linux来说无论有几个分区 分给哪一目录使用 它归根结底就只有一个目录 一个独立且唯一的文件结构 Linux中每个分区都是用来组成整个文件系统的一部分

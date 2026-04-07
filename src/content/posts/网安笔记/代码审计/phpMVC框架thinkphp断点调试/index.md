@@ -1,14 +1,15 @@
 ---
-title: "一、思维导图"
+title: "phpMVC框架thinkphp断点调试"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/代码审计/phpMVC框架thinkphp断点调试/
 author: Rin
+permalink: /posts/网安笔记/代码审计/phpMVC框架thinkphp断点调试/
 categories:
-  - 笔记
+  - 网安笔记
+  - 代码审计
+  - phpMVC框架thinkphp断点调试
 tags:
   - Study
-  - Linux
 ---
 
 # 一、思维导图

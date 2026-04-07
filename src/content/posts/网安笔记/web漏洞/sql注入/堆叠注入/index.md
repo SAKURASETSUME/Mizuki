@@ -2,13 +2,15 @@
 title: "堆叠注入"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/web漏洞/sql注入/堆叠注入/
 author: Rin
+permalink: /posts/网安笔记/web漏洞/sql注入/堆叠注入/
 categories:
-  - 笔记
+  - 网安笔记
+  - web漏洞
+  - sql注入
+  - 堆叠注入
 tags:
   - Study
-  - Linux
 ---
 
 ### 1、堆叠查询注入

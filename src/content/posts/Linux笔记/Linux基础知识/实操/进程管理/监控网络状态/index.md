@@ -2,13 +2,16 @@
 title: "监控网络状态"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/实操/进程管理/监控网络状态/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/实操/进程管理/监控网络状态/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 实操
+  - 进程管理
+  - 监控网络状态
 tags:
   - Study
-  - Linux
 ---
 
 ```bash

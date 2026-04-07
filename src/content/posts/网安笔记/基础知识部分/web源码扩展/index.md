@@ -2,13 +2,14 @@
 title: "web源码扩展"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/基础知识部分/web源码扩展/
 author: Rin
+permalink: /posts/网安笔记/基础知识部分/web源码扩展/
 categories:
-  - 笔记
+  - 网安笔记
+  - 基础知识部分
+  - web源码扩展
 tags:
   - Study
-  - Linux
 ---
 
 ### 1、WEB源码拓展

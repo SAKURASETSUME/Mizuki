@@ -2,13 +2,17 @@
 title: "使用curl测试防盗链"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用web服务应用搭建/Nginx/基本使用/防盗链/使用curl测试防盗链/
 author: Rin
+permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/防盗链/使用curl测试防盗链/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用web服务应用搭建
+  - Nginx
+  - 基本使用
+  - 防盗链
+  - 使用curl测试防盗链
 tags:
   - Study
-  - Linux
 ---
 
 ```bash

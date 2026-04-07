@@ -1,14 +1,18 @@
 ---
-title: "redirect server error pages to the static page /50x.html"
+title: "网关的概念 伪静态同时负载均衡"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用web服务应用搭建/Nginx/基本使用/负载均衡/网关的概念 伪静态同时负载均衡/
 author: Rin
+permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/负载均衡/网关的概念 伪静态同时负载均衡/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用web服务应用搭建
+  - Nginx
+  - 基本使用
+  - 负载均衡
+  - 网关的概念 伪静态同时负载均衡
 tags:
   - Study
-  - Linux
 ---
 
 ## 网关

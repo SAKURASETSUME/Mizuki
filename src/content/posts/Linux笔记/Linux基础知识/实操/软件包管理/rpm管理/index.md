@@ -2,13 +2,16 @@
 title: "rpm管理"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/实操/软件包管理/rpm管理/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/实操/软件包管理/rpm管理/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 实操
+  - 软件包管理
+  - rpm管理
 tags:
   - Study
-  - Linux
 ---
 
 ## rpm包

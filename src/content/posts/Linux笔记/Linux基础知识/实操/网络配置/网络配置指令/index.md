@@ -2,13 +2,16 @@
 title: "网络配置指令"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/实操/网络配置/网络配置指令/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/实操/网络配置/网络配置指令/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 实操
+  - 网络配置
+  - 网络配置指令
 tags:
   - Study
-  - Linux
 ---
 
 ## 基本原理

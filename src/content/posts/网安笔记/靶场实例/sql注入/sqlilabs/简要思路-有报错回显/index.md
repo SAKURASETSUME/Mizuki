@@ -2,13 +2,16 @@
 title: "简要思路-有报错回显"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/sql注入/sqlilabs/简要思路-有报错回显/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/sql注入/sqlilabs/简要思路-有报错回显/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - sql注入
+  - sqlilabs
+  - 简要思路-有报错回显
 tags:
   - Study
-  - Linux
 ---
 
 首先判断一下传参类型是字符型还是数字型 由于URL为(http://127.0.0.1/sqlilabs/Less-1/?id=1)

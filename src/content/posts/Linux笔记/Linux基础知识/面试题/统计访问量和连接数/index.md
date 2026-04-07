@@ -2,13 +2,15 @@
 title: "统计访问量和连接数"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/面试题/统计访问量和连接数/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/面试题/统计访问量和连接数/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 面试题
+  - 统计访问量和连接数
 tags:
   - Study
-  - Linux
 ---
 
 ```txt

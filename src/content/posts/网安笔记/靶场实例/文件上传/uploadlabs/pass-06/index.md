@@ -2,13 +2,16 @@
 title: "pass-06"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/文件上传/uploadlabs/pass-06/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/文件上传/uploadlabs/pass-06/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - 文件上传
+  - uploadlabs
+  - pass-06
 tags:
   - Study
-  - Linux
 ---
 
 源代码

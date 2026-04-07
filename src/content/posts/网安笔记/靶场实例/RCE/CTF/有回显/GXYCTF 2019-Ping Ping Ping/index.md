@@ -2,13 +2,17 @@
 title: "GXYCTF 2019-Ping Ping Ping"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/RCE/CTF/有回显/GXYCTF 2019-Ping Ping Ping/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/RCE/CTF/有回显/GXYCTF 2019-Ping Ping Ping/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - RCE
+  - CTF
+  - 有回显
+  - GXYCTF 2019-Ping Ping Ping
 tags:
   - Study
-  - Linux
 ---
 
 - 网页可以ping，证明他有可以命令执行的函数，标题也说了

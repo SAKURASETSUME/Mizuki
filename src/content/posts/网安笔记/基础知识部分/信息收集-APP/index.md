@@ -2,13 +2,14 @@
 title: "信息收集-APP"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/基础知识部分/信息收集-APP/
 author: Rin
+permalink: /posts/网安笔记/基础知识部分/信息收集-APP/
 categories:
-  - 笔记
+  - 网安笔记
+  - 基础知识部分
+  - 信息收集-APP
 tags:
   - Study
-  - Linux
 ---
 
 ### 一、bp抓取手机数据包

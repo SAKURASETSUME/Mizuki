@@ -2,13 +2,13 @@
 title: "参数提交注入 2"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/.trash/参数提交注入 2/
 author: Rin
+permalink: /posts/.trash/参数提交注入 2/
 categories:
-  - 笔记
+  - .trash
+  - 参数提交注入 2
 tags:
   - Study
-  - Linux
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1623750701440-910fbead-ad66-48bf-bf97-eb5f58f83565.png)

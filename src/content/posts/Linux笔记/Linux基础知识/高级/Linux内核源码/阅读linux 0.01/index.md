@@ -2,13 +2,16 @@
 title: "阅读linux 0.01"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/高级/Linux内核源码/阅读linux 0.01/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/高级/Linux内核源码/阅读linux 0.01/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 高级
+  - Linux内核源码
+  - 阅读linux 0.01
 tags:
   - Study
-  - Linux
 ---
 
 ## 阅读技巧

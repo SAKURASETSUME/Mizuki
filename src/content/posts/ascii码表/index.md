@@ -2,13 +2,12 @@
 title: "ascii码表"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/ascii码表/
 author: Rin
+permalink: /posts/ascii码表/
 categories:
-  - 笔记
+  - ascii码表
 tags:
   - Study
-  - Linux
 ---
 
 |     |     |     |     |        |

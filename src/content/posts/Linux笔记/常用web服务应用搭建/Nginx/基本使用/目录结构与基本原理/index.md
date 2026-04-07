@@ -2,13 +2,16 @@
 title: "目录结构与基本原理"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/常用web服务应用搭建/Nginx/基本使用/目录结构与基本原理/
 author: Rin
+permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/目录结构与基本原理/
 categories:
-  - 笔记
+  - Linux笔记
+  - 常用web服务应用搭建
+  - Nginx
+  - 基本使用
+  - 目录结构与基本原理
 tags:
   - Study
-  - Linux
 ---
 
 | conf | 配置文件 |

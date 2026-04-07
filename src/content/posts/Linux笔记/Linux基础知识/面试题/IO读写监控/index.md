@@ -2,13 +2,15 @@
 title: "IO读写监控"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/Linux基础知识/面试题/IO读写监控/
 author: Rin
+permalink: /posts/Linux笔记/Linux基础知识/面试题/IO读写监控/
 categories:
-  - 笔记
+  - Linux笔记
+  - Linux基础知识
+  - 面试题
+  - IO读写监控
 tags:
   - Study
-  - Linux
 ---
 
 ```txt

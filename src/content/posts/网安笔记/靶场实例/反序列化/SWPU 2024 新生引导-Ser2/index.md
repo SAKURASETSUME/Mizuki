@@ -2,13 +2,15 @@
 title: "SWPU 2024 新生引导-Ser2"
 date: 2026-04-07
 published: 2026-04-07
-permalink: /posts/靶场实例/反序列化/SWPU 2024 新生引导-Ser2/
 author: Rin
+permalink: /posts/网安笔记/靶场实例/反序列化/SWPU 2024 新生引导-Ser2/
 categories:
-  - 笔记
+  - 网安笔记
+  - 靶场实例
+  - 反序列化
+  - SWPU 2024 新生引导-Ser2
 tags:
   - Study
-  - Linux
 ---
 
 找到的代码
