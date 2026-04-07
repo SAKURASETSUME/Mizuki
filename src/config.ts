@@ -43,10 +43,10 @@ export const siteConfig: SiteConfig = {
 		anime: true, // 番剧页面开关
 		diary: true, // 日记页面开关
 		friends: true, // 友链页面开关
-		projects: true, // 项目页面开关
-		skills: true, // 技能页面开关
+		projects: false, // 项目页面开关
+		skills: false, // 技能页面开关
 		timeline: true, // 时间线页面开关
-		albums: true, // 相册页面开关
+		albums: false, // 相册页面开关
 		devices: true, // 设备页面开关
 	},
 
@@ -55,7 +55,7 @@ export const siteConfig: SiteConfig = {
 		// 显示模式："text-icon" 显示图标+文本，"logo" 仅显示Logo
 		mode: "text-icon",
 		// 顶栏标题文本
-		text: "MizukiUI",
+		text: "Rin",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.webp
 		icon: "assets/home/home.webp",
 		// 网站Logo图片路径
@@ -69,8 +69,8 @@ export const siteConfig: SiteConfig = {
 	},
 
 	bangumi: {
-		userId: "your-bangumi-id", // 在此处设置你的Bangumi用户ID，可以设置为 "sai" 测试
-		fetchOnDev: false, // 是否在开发环境下获取 Bangumi 数据（默认 false），获取前先执行 pnpm build 构建 json 文件
+		userId: "natsumerindaze", // 在此处设置你的Bangumi用户ID，可以设置为 "sai" 测试
+		fetchOnDev: true, // 是否在开发环境下获取 Bangumi 数据（默认 false），获取前先执行 pnpm build 构建 json 文件
 	},
 
 	bilibili: {
@@ -289,12 +289,18 @@ export const navBarConfig: NavBarConfig = {
 					external: true,
 					icon: "fa7-brands:bilibili",
 				},
-				/*{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
+				{
+					name: "Bangumi",
+					url: "https://bgm.tv/user/natsumerindaze",
 					external: true,
-					icon: "mdi:git",
-				},*/
+					icon: "mdi:television-classicmdi:git",
+				},
+				{
+					name: "Yuque",
+					url: "https://www.yuque.com/nakatsusizuru",
+					external: true,
+					icon: "mdi:file-document-multiple",
+				},
 			],
 		},
 		{
@@ -381,21 +387,21 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa7-brands:bilibili",
 			url: "https://space.bilibili.com/87273092",
 		},
-		/*{
-			name: "Gitee",
-			icon: "mdi:git",
-			url: "https://gitee.com/matsuzakayuki",
-		},*/
+		{
+			name: "Bangumi",
+			icon: "mdi:television-classic",
+			url: "https://bgm.tv/user/natsumerindaze",
+		},
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
 			url: "https://github.com/SAKURASETSUME",
 		},
-		/*{
-			name: "Codeberg",
-			icon: "simple-icons:codeberg",
-			url: "https://codeberg.org",
-		},*/
+		{
+			name: "Yuque",
+			icon: "mdi:file-document-multiple",
+			url: "https://www.yuque.com/nakatsusizuru",
+		},
 		/*{
 			name: "Discord",
 			icon: "fa7-brands:discord",
@@ -676,7 +682,7 @@ export const pioConfig: import("./types/config").PioConfig = {
 	mode: "draggable", // 默认为可拖拽模式
 	hiddenOnMobile: true, // 默认在移动设备上隐藏
 	dialog: {
-		welcome: "Welcome to Mizuki Website!", // 欢迎词
+		welcome: "Welcome to Rinの部屋!", // 欢迎词
 		touch: [
 			"What are you doing?",
 			"Stop touching me!",
