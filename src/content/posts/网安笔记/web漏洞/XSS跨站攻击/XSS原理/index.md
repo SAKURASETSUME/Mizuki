@@ -1,5 +1,5 @@
 ---
-title: "'onclick="alert (2) ">"
+title: "XSS原理"
 date: 2026-04-07
 published: 2026-04-07
 permalink: /posts/web漏洞/XSS跨站攻击/XSS原理/
