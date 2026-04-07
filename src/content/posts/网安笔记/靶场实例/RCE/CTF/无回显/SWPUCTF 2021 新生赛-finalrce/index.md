@@ -1,18 +1,9 @@
 ---
-title: "SWPUCTF 2021 新生赛-finalrce"
+title: "网安笔记 - 靶场实例 - RCE - CTF - 无回显 - SWPUCTF 2021 新生赛-finalrce"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/RCE/CTF/无回显/SWPUCTF 2021 新生赛-finalrce/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - RCE
-  - CTF
-  - 无回显
-  - SWPUCTF 2021 新生赛-finalrce
-tags:
-  - Study
+author: "Rin"
 ---
 
 ```php

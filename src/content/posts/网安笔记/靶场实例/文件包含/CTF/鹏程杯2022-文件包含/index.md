@@ -1,17 +1,9 @@
 ---
-title: "鹏程杯2022-文件包含"
+title: "网安笔记 - 靶场实例 - 文件包含 - CTF - 鹏程杯2022-文件包含"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/文件包含/CTF/鹏程杯2022-文件包含/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - 文件包含
-  - CTF
-  - 鹏程杯2022-文件包含
-tags:
-  - Study
+author: "Rin"
 ---
 
 首先看一遍代码  

@@ -1,17 +1,9 @@
 ---
-title: "虚拟主机与域名解析"
+title: "Linux笔记 - 常用web服务应用搭建 - Nginx - 基本使用 - 虚拟主机与域名解析"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/虚拟主机与域名解析/
-categories:
-  - Linux笔记
-  - 常用web服务应用搭建
-  - Nginx
-  - 基本使用
-  - 虚拟主机与域名解析
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 配置域名解析

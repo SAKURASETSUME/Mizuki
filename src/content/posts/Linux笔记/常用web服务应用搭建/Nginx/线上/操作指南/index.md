@@ -1,17 +1,9 @@
 ---
-title: "操作指南"
+title: "Linux笔记 - 常用web服务应用搭建 - Nginx - 线上 - 操作指南"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/线上/操作指南/
-categories:
-  - Linux笔记
-  - 常用web服务应用搭建
-  - Nginx
-  - 线上
-  - 操作指南
-tags:
-  - Study
+author: "Rin"
 ---
 
 **L(linux)N(nginx)M(mysql)P(php)版本 集成了基本的运行环境**

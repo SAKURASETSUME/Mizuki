@@ -1,17 +1,9 @@
 ---
-title: "虚拟机克隆"
+title: "Linux笔记 - Linux基础知识 - 基础 - 虚拟机管理 - 虚拟机克隆"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/基础/虚拟机管理/虚拟机克隆/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 基础
-  - 虚拟机管理
-  - 虚拟机克隆
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 作用

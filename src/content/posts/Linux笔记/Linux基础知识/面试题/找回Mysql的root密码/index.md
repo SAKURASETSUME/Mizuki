@@ -1,16 +1,9 @@
 ---
-title: "找回Mysql的root密码"
+title: "Linux笔记 - Linux基础知识 - 面试题 - 找回Mysql的root密码"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/面试题/找回Mysql的root密码/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 面试题
-  - 找回Mysql的root密码
-tags:
-  - Study
+author: "Rin"
 ---
 
 ```txt

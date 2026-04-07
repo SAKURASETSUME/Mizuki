@@ -1,14 +1,9 @@
 ---
-title: "sqlilabs-less02"
+title: ".trash - sqlilabs-less02"
+category: ".trash"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/.trash/sqlilabs-less02/
-categories:
-  - .trash
-  - sqlilabs-less02
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### payload

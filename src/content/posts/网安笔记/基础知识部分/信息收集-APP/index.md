@@ -1,15 +1,9 @@
 ---
-title: "信息收集-APP"
+title: "网安笔记 - 基础知识部分 - 信息收集-APP"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/基础知识部分/信息收集-APP/
-categories:
-  - 网安笔记
-  - 基础知识部分
-  - 信息收集-APP
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 一、bp抓取手机数据包

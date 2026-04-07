@@ -1,15 +1,9 @@
 ---
-title: "web应用漏洞探针"
+title: "网安笔记 - 漏洞发现 - web应用漏洞探针"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/漏洞发现/web应用漏洞探针/
-categories:
-  - 网安笔记
-  - 漏洞发现
-  - web应用漏洞探针
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 一、思维导图

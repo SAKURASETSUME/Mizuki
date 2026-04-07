@@ -1,14 +1,9 @@
 ---
-title: "知识补充-正则表达式攻击"
+title: ".trash - 知识补充-正则表达式攻击"
+category: ".trash"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/.trash/知识补充-正则表达式攻击/
-categories:
-  - .trash
-  - 知识补充-正则表达式攻击
-tags:
-  - Study
+author: "Rin"
 ---
 
 我们都已经知道，在MYSQL 5+中 information_schema库中存储了所有的 库名，表明以及字段名信息。故攻击方式如下：

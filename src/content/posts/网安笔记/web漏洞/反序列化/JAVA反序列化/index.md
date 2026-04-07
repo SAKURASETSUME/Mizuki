@@ -1,16 +1,9 @@
 ---
-title: "JAVA反序列化"
+title: "网安笔记 - web漏洞 - 反序列化 - JAVA反序列化"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/web漏洞/反序列化/JAVA反序列化/
-categories:
-  - 网安笔记
-  - web漏洞
-  - 反序列化
-  - JAVA反序列化
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 一、思维导图

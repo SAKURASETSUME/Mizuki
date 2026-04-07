@@ -1,17 +1,9 @@
 ---
-title: "用户和组的相关文件"
+title: "Linux笔记 - Linux基础知识 - 实操 - 用户管理 - 用户和组的相关文件"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/实操/用户管理/用户和组的相关文件/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 实操
-  - 用户管理
-  - 用户和组的相关文件
-tags:
-  - Study
+author: "Rin"
 ---
 
 - /etc/passwd 文件

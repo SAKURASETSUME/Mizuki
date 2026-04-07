@@ -1,17 +1,9 @@
 ---
-title: "磁盘情况查询"
+title: "Linux笔记 - Linux基础知识 - 实操 - 磁盘分区机制 - 磁盘情况查询"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/实操/磁盘分区机制/磁盘情况查询/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 实操
-  - 磁盘分区机制
-  - 磁盘情况查询
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 查询系统整体磁盘使用情况

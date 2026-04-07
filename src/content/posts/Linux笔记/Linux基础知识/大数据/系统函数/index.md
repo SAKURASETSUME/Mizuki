@@ -1,16 +1,9 @@
 ---
-title: "系统函数"
+title: "Linux笔记 - Linux基础知识 - 大数据 - 系统函数"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/大数据/系统函数/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 大数据
-  - 系统函数
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 函数函数

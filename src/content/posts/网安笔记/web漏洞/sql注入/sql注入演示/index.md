@@ -1,16 +1,9 @@
 ---
-title: "sql注入演示"
+title: "网安笔记 - web漏洞 - sql注入 - sql注入演示"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/web漏洞/sql注入/sql注入演示/
-categories:
-  - 网安笔记
-  - web漏洞
-  - sql注入
-  - sql注入演示
-tags:
-  - Study
+author: "Rin"
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1623828836935-8e18a301-2a6e-4457-97f1-1859cd4ddb00.png)

@@ -1,16 +1,9 @@
 ---
-title: "Python环境"
+title: "Linux笔记 - Linux基础知识 - Python - Python环境"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/Python/Python环境/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - Python
-  - Python环境
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 环境

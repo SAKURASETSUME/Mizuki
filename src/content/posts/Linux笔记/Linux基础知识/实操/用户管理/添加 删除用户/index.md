@@ -1,17 +1,9 @@
 ---
-title: "添加 删除用户"
+title: "Linux笔记 - Linux基础知识 - 实操 - 用户管理 - 添加 删除用户"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/实操/用户管理/添加 删除用户/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 实操
-  - 用户管理
-  - 添加 删除用户
-tags:
-  - Study
+author: "Rin"
 ---
 
 ```bash

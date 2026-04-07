@@ -1,15 +1,9 @@
 ---
-title: "Linux常用命令及知识补充"
+title: "网安笔记 - 知识补充 - Linux常用命令及知识补充"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/知识补充/Linux常用命令及知识补充/
-categories:
-  - 网安笔记
-  - 知识补充
-  - Linux常用命令及知识补充
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 一、基本命令

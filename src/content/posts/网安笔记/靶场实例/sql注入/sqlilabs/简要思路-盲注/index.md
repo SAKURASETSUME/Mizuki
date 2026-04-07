@@ -1,17 +1,9 @@
 ---
-title: "简要思路-盲注"
+title: "网安笔记 - 靶场实例 - sql注入 - sqlilabs - 简要思路-盲注"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/sql注入/sqlilabs/简要思路-盲注/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - sql注入
-  - sqlilabs
-  - 简要思路-盲注
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 主要类型

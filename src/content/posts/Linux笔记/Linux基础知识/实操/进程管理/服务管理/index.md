@@ -1,17 +1,9 @@
 ---
-title: "服务管理"
+title: "Linux笔记 - Linux基础知识 - 实操 - 进程管理 - 服务管理"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/实操/进程管理/服务管理/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 实操
-  - 进程管理
-  - 服务管理
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 介绍

@@ -1,17 +1,9 @@
 ---
-title: "数据恢复restore"
+title: "Linux笔记 - Linux基础知识 - 高级 - 备份与恢复 - 数据恢复restore"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/高级/备份与恢复/数据恢复restore/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 高级
-  - 备份与恢复
-  - 数据恢复restore
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 基本语法

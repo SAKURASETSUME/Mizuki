@@ -1,15 +1,9 @@
 ---
-title: "php RCE 文件下载删除"
+title: "网安笔记 - 代码审计 - php RCE 文件下载删除"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/代码审计/php RCE 文件下载删除/
-categories:
-  - 网安笔记
-  - 代码审计
-  - php RCE 文件下载删除
-tags:
-  - Study
+author: "Rin"
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2022/webp/2476579/1647844675027-e63ddf0c-8481-4a12-b906-5874e16a3b16.webp?x-oss-process=image%2Fresize%2Cw_937%2Climit_0)

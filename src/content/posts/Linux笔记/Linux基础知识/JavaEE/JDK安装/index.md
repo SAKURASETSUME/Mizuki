@@ -1,16 +1,9 @@
 ---
-title: "JDK安装"
+title: "Linux笔记 - Linux基础知识 - JavaEE - JDK安装"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/JavaEE/JDK安装/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - JavaEE
-  - JDK安装
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 安装步骤

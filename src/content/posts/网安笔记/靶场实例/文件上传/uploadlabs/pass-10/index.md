@@ -1,17 +1,9 @@
 ---
-title: "pass-10"
+title: "网安笔记 - 靶场实例 - 文件上传 - uploadlabs - pass-10"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/文件上传/uploadlabs/pass-10/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - 文件上传
-  - uploadlabs
-  - pass-10
-tags:
-  - Study
+author: "Rin"
 ---
 
 我猛虎王又回来了

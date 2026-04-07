@@ -1,16 +1,9 @@
 ---
-title: "条件判断"
+title: "Linux笔记 - Linux基础知识 - 大数据 - 条件判断"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/大数据/条件判断/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 大数据
-  - 条件判断
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 基本语法

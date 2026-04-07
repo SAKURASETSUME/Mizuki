@@ -1,16 +1,9 @@
 ---
-title: "2020-网鼎杯-青龙组-Web-AreUSerialz"
+title: "网安笔记 - 靶场实例 - 反序列化 - 2020-网鼎杯-青龙组-Web-AreUSerialz"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/反序列化/2020-网鼎杯-青龙组-Web-AreUSerialz/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - 反序列化
-  - 2020-网鼎杯-青龙组-Web-AreUSerialz
-tags:
-  - Study
+author: "Rin"
 ---
 
 ```php

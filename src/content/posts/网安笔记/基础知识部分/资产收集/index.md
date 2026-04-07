@@ -1,15 +1,9 @@
 ---
-title: "资产收集"
+title: "网安笔记 - 基础知识部分 - 资产收集"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/基础知识部分/资产收集/
-categories:
-  - 网安笔记
-  - 基础知识部分
-  - 资产收集
-tags:
-  - Study
+author: "Rin"
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1623307390451-79e7a71e-656c-4401-ae03-c817b38967cc.png)

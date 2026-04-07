@@ -1,15 +1,9 @@
 ---
-title: "加密编码算法"
+title: "网安笔记 - 基础知识部分 - 加密编码算法"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/基础知识部分/加密编码算法/
-categories:
-  - 网安笔记
-  - 基础知识部分
-  - 加密编码算法
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 一、前言知识

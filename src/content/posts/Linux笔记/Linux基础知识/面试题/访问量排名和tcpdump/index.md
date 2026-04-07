@@ -1,16 +1,9 @@
 ---
-title: "访问量排名和tcpdump"
+title: "Linux笔记 - Linux基础知识 - 面试题 - 访问量排名和tcpdump"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/面试题/访问量排名和tcpdump/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 面试题
-  - 访问量排名和tcpdump
-tags:
-  - Study
+author: "Rin"
 ---
 
 ```txt

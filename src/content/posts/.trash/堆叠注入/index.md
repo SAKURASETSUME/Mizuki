@@ -1,14 +1,9 @@
 ---
-title: "堆叠注入"
+title: ".trash - 堆叠注入"
+category: ".trash"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/.trash/堆叠注入/
-categories:
-  - .trash
-  - 堆叠注入
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 1、堆叠查询注入

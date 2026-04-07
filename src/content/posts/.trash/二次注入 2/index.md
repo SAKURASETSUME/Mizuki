@@ -1,14 +1,9 @@
 ---
-title: "二次注入 2"
+title: ".trash - 二次注入 2"
+category: ".trash"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/.trash/二次注入 2/
-categories:
-  - .trash
-  - 二次注入 2
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 1、加解密注入

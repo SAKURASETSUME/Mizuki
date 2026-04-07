@@ -1,17 +1,9 @@
 ---
-title: "payload"
+title: "网安笔记 - 靶场实例 - 文件上传 - uploadlabs - payload"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/文件上传/uploadlabs/payload/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - 文件上传
-  - uploadlabs
-  - payload
-tags:
-  - Study
+author: "Rin"
 ---
 
 **由于passage01是直接由前端js代码验证图片格式的 那么有如下方法上传文件**

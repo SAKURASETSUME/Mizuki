@@ -1,16 +1,9 @@
 ---
-title: "Ubuntu远程登录和集群"
+title: "Linux笔记 - Linux基础知识 - Python - Ubuntu远程登录和集群"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/Python/Ubuntu远程登录和集群/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - Python
-  - Ubuntu远程登录和集群
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## SSH

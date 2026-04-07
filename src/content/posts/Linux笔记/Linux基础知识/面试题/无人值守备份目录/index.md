@@ -1,16 +1,9 @@
 ---
-title: "无人值守备份目录"
+title: "Linux笔记 - Linux基础知识 - 面试题 - 无人值守备份目录"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/面试题/无人值守备份目录/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 面试题
-  - 无人值守备份目录
-tags:
-  - Study
+author: "Rin"
 ---
 
 ```txt

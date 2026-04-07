@@ -1,18 +1,9 @@
 ---
-title: "基本介绍"
+title: "Linux笔记 - 常用web服务应用搭建 - Nginx - 基本使用 - 高可用场景及解决方案 - 基本介绍"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/高可用场景及解决方案/基本介绍/
-categories:
-  - Linux笔记
-  - 常用web服务应用搭建
-  - Nginx
-  - 基本使用
-  - 高可用场景及解决方案
-  - 基本介绍
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 什么是高可用场景？解决方案又是什么？

@@ -1,16 +1,9 @@
 ---
-title: "xxe漏洞"
+title: "网安笔记 - web漏洞 - XXE - xxe漏洞"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/web漏洞/XXE/xxe漏洞/
-categories:
-  - 网安笔记
-  - web漏洞
-  - XXE
-  - xxe漏洞
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 一、思维导图

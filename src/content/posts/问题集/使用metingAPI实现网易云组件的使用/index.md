@@ -1,14 +1,9 @@
 ---
-title: "使用metingAPI实现网易云组件的使用"
+title: "问题集 - 使用metingAPI实现网易云组件的使用"
+category: "问题集"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/问题集/使用metingAPI实现网易云组件的使用/
-categories:
-  - 问题集
-  - 使用metingAPI实现网易云组件的使用
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 通过metingAPI来使用Mizuki模板的网易云音乐接口

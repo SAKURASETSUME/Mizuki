@@ -1,16 +1,9 @@
 ---
-title: "邮件服务配置"
+title: "Linux笔记 - 常用服务搭建 - 堡垒机-JumpServer - 邮件服务配置"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用服务搭建/堡垒机-JumpServer/邮件服务配置/
-categories:
-  - Linux笔记
-  - 常用服务搭建
-  - 堡垒机-JumpServer
-  - 邮件服务配置
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 申请邮件服务 以QQ邮箱为例

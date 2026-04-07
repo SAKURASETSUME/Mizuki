@@ -1,15 +1,9 @@
 ---
-title: "文件包含"
+title: "网安笔记 - web漏洞 - 文件包含"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/web漏洞/文件包含/
-categories:
-  - 网安笔记
-  - web漏洞
-  - 文件包含
-tags:
-  - Study
+author: "Rin"
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1628991158390-b5543660-8083-4e31-9a9d-16edbbf6a1f0.png)

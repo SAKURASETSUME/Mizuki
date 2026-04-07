@@ -1,15 +1,9 @@
 ---
-title: "验证码与token接口"
+title: "网安笔记 - web漏洞 - 验证码与token接口"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/web漏洞/验证码与token接口/
-categories:
-  - 网安笔记
-  - web漏洞
-  - 验证码与token接口
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 1、思维导图

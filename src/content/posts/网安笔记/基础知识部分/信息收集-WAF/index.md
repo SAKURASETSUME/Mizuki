@@ -1,15 +1,9 @@
 ---
-title: "信息收集-WAF"
+title: "网安笔记 - 基础知识部分 - 信息收集-WAF"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/基础知识部分/信息收集-WAF/
-categories:
-  - 网安笔记
-  - 基础知识部分
-  - 信息收集-WAF
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 一、前言说明

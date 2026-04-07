@@ -1,18 +1,9 @@
 ---
-title: "网关的概念 伪静态同时负载均衡"
+title: "Linux笔记 - 常用web服务应用搭建 - Nginx - 基本使用 - 负载均衡 - 网关的概念 伪静态同时负载均衡"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/负载均衡/网关的概念 伪静态同时负载均衡/
-categories:
-  - Linux笔记
-  - 常用web服务应用搭建
-  - Nginx
-  - 基本使用
-  - 负载均衡
-  - 网关的概念 伪静态同时负载均衡
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 网关

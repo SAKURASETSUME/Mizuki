@@ -1,15 +1,9 @@
 ---
-title: "搭建安全扩展"
+title: "网安笔记 - 基础知识部分 - 搭建安全扩展"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/基础知识部分/搭建安全扩展/
-categories:
-  - 网安笔记
-  - 基础知识部分
-  - 搭建安全扩展
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 1、涉及的知识点

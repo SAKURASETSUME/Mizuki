@@ -1,17 +1,9 @@
 ---
-title: "基本介绍"
+title: "Linux笔记 - Linux基础知识 - 高级 - 定制自己的Linux - 基本介绍"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/高级/定制自己的Linux/基本介绍/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 高级
-  - 定制自己的Linux
-  - 基本介绍
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 思路

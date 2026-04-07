@@ -1,16 +1,9 @@
 ---
-title: "文件上传基础知识"
+title: "网安笔记 - web漏洞 - 文件上传 - 文件上传基础知识"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/web漏洞/文件上传/文件上传基础知识/
-categories:
-  - 网安笔记
-  - web漏洞
-  - 文件上传
-  - 文件上传基础知识
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 思维导图

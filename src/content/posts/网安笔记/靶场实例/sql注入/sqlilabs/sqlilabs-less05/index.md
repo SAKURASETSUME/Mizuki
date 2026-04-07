@@ -1,17 +1,9 @@
 ---
-title: "sqlilabs-less05"
+title: "网安笔记 - 靶场实例 - sql注入 - sqlilabs - sqlilabs-less05"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/sql注入/sqlilabs/sqlilabs-less05/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - sql注入
-  - sqlilabs
-  - sqlilabs-less05
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### payload

@@ -1,15 +1,9 @@
 ---
-title: "Linux 绕过"
+title: "网安笔记 - 知识补充 - Linux 绕过"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/知识补充/Linux 绕过/
-categories:
-  - 网安笔记
-  - 知识补充
-  - Linux 绕过
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 1、绕过过滤字符

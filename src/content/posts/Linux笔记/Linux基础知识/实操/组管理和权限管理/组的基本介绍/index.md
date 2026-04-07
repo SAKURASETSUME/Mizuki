@@ -1,17 +1,9 @@
 ---
-title: "组的基本介绍"
+title: "Linux笔记 - Linux基础知识 - 实操 - 组管理和权限管理 - 组的基本介绍"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/实操/组管理和权限管理/组的基本介绍/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 实操
-  - 组管理和权限管理
-  - 组的基本介绍
-tags:
-  - Study
+author: "Rin"
 ---
 
 **Linux中每个用户必须属于一个组 不能独立于组外 在linux中每个文件有所有者 所在组 其它组的概念**

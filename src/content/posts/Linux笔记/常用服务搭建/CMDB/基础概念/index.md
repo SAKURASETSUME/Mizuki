@@ -1,16 +1,9 @@
 ---
-title: "基础概念"
+title: "Linux笔记 - 常用服务搭建 - CMDB - 基础概念"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用服务搭建/CMDB/基础概念/
-categories:
-  - Linux笔记
-  - 常用服务搭建
-  - CMDB
-  - 基础概念
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 概念

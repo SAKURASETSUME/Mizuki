@@ -1,18 +1,9 @@
 ---
-title: "不安全的Http协议"
+title: "Linux笔记 - 常用web服务应用搭建 - Nginx - 基本使用 - Http Https协议 - 不安全的Http协议"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/Http Https协议/不安全的Http协议/
-categories:
-  - Linux笔记
-  - 常用web服务应用搭建
-  - Nginx
-  - 基本使用
-  - Http Https协议
-  - 不安全的Http协议
-tags:
-  - Study
+author: "Rin"
 ---
 
 **由于http协议传输数据本质上是明文传输 即使使用了对称加密算法来加密明文 那只要攻击者知道了对称加密算法的加密算法 就能解出明文 再比如你自定义了一个加密算法并加密明文 那服务器端也需要对应的key来解密 这个key怎么传输又是一个问题 陷入了循环 所以说http协议是不安全的**

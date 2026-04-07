@@ -1,17 +1,9 @@
 ---
-title: "vmtools"
+title: "Linux笔记 - Linux基础知识 - 基础 - 虚拟机管理 - vmtools"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/基础/虚拟机管理/vmtools/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 基础
-  - 虚拟机管理
-  - vmtools
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 作用

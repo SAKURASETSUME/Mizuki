@@ -1,15 +1,9 @@
 ---
-title: "APP漏洞发现"
+title: "网安笔记 - 漏洞发现 - APP漏洞发现"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/漏洞发现/APP漏洞发现/
-categories:
-  - 网安笔记
-  - 漏洞发现
-  - APP漏洞发现
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 一、导图

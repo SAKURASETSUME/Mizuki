@@ -1,15 +1,9 @@
 ---
-title: "编辑器安全"
+title: "网安笔记 - 文件上传模块 - 编辑器安全"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/文件上传模块/编辑器安全/
-categories:
-  - 网安笔记
-  - 文件上传模块
-  - 编辑器安全
-tags:
-  - Study
+author: "Rin"
 ---
 
 ```

@@ -1,14 +1,9 @@
 ---
-title: "GXYCTF 2019-Ping Ping Ping"
+title: ".trash - GXYCTF 2019-Ping Ping Ping"
+category: ".trash"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/.trash/GXYCTF 2019-Ping Ping Ping/
-categories:
-  - .trash
-  - GXYCTF 2019-Ping Ping Ping
-tags:
-  - Study
+author: "Rin"
 ---
 
 - 网页可以ping，证明他有可以命令执行的函数，标题也说了

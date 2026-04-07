@@ -1,17 +1,9 @@
 ---
-title: "日志管理服务"
+title: "Linux笔记 - Linux基础知识 - 高级 - 日志管理 - 日志管理服务"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/高级/日志管理/日志管理服务/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 高级
-  - 日志管理
-  - 日志管理服务
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## rsyslogd

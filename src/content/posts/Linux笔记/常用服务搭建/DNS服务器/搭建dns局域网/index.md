@@ -1,16 +1,9 @@
 ---
-title: "搭建dns局域网"
+title: "Linux笔记 - 常用服务搭建 - DNS服务器 - 搭建dns局域网"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用服务搭建/DNS服务器/搭建dns局域网/
-categories:
-  - Linux笔记
-  - 常用服务搭建
-  - DNS服务器
-  - 搭建dns局域网
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 部署

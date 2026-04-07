@@ -1,17 +1,9 @@
 ---
-title: "pass-19"
+title: "网安笔记 - 靶场实例 - 文件上传 - uploadlabs - pass-19"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/文件上传/uploadlabs/pass-19/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - 文件上传
-  - uploadlabs
-  - pass-19
-tags:
-  - Study
+author: "Rin"
 ---
 
 ```php

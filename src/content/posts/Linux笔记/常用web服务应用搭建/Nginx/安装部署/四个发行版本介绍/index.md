@@ -1,17 +1,9 @@
 ---
-title: "四个发行版本介绍"
+title: "Linux笔记 - 常用web服务应用搭建 - Nginx - 安装部署 - 四个发行版本介绍"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/安装部署/四个发行版本介绍/
-categories:
-  - Linux笔记
-  - 常用web服务应用搭建
-  - Nginx
-  - 安装部署
-  - 四个发行版本介绍
-tags:
-  - Study
+author: "Rin"
 ---
 
 - Nginx开源版 （单纯的一个反向代理 负载均衡服务器）

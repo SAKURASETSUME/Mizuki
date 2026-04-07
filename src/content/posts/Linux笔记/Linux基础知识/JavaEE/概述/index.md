@@ -1,16 +1,9 @@
 ---
-title: "概述"
+title: "Linux笔记 - Linux基础知识 - JavaEE - 概述"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/JavaEE/概述/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - JavaEE
-  - 概述
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 安装软件列表

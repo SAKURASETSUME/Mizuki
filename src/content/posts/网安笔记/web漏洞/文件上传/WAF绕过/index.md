@@ -1,16 +1,9 @@
 ---
-title: "WAF绕过"
+title: "网安笔记 - web漏洞 - 文件上传 - WAF绕过"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/web漏洞/文件上传/WAF绕过/
-categories:
-  - 网安笔记
-  - web漏洞
-  - 文件上传
-  - WAF绕过
-tags:
-  - Study
+author: "Rin"
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1627433334141-cb693e43-53e8-4e28-80b9-b2c08e23f2f6.png?x-oss-process=image%2Fresize%2Cw_752%2Cresize%2Cw_752%2Cresize%2Cw_752)

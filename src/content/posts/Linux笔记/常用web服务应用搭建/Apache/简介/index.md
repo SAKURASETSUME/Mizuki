@@ -1,16 +1,9 @@
 ---
-title: "简介"
+title: "Linux笔记 - 常用web服务应用搭建 - Apache - 简介"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用web服务应用搭建/Apache/简介/
-categories:
-  - Linux笔记
-  - 常用web服务应用搭建
-  - Apache
-  - 简介
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 基础概念

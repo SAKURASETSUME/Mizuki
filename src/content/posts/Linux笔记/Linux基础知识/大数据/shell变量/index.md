@@ -1,16 +1,9 @@
 ---
-title: "shell变量"
+title: "Linux笔记 - Linux基础知识 - 大数据 - shell变量"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/大数据/shell变量/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 大数据
-  - shell变量
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## shell变量介绍

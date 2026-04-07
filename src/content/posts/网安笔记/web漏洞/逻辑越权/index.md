@@ -1,15 +1,9 @@
 ---
-title: "逻辑越权"
+title: "网安笔记 - web漏洞 - 逻辑越权"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/web漏洞/逻辑越权/
-categories:
-  - 网安笔记
-  - web漏洞
-  - 逻辑越权
-tags:
-  - Study
+author: "Rin"
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2476579/1629182322161-1a6609f6-67c5-489d-a3ea-dfee7cc121bc.png)

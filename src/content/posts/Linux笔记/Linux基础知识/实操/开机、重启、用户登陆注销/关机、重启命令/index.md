@@ -1,17 +1,9 @@
 ---
-title: "关机、重启命令"
+title: "Linux笔记 - Linux基础知识 - 实操 - 开机、重启、用户登陆注销 - 关机、重启命令"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/实操/开机、重启、用户登陆注销/关机、重启命令/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 实操
-  - 开机、重启、用户登陆注销
-  - 关机、重启命令
-tags:
-  - Study
+author: "Rin"
 ---
 
 ```shell

@@ -1,15 +1,9 @@
 ---
-title: "指纹探针"
+title: "网安笔记 - WAF绕过 - 指纹探针"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/WAF绕过/指纹探针/
-categories:
-  - 网安笔记
-  - WAF绕过
-  - 指纹探针
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 一、思维导图

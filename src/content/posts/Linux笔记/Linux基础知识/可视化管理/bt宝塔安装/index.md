@@ -1,16 +1,9 @@
 ---
-title: "bt宝塔安装"
+title: "Linux笔记 - Linux基础知识 - 可视化管理 - bt宝塔安装"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/可视化管理/bt宝塔安装/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 可视化管理
-  - bt宝塔安装
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 基本介绍

@@ -1,16 +1,9 @@
 ---
-title: "vulnhub-XXElab"
+title: "网安笔记 - 靶场实例 - XXE - vulnhub-XXElab"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/XXE/vulnhub-XXElab/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - XXE
-  - vulnhub-XXElab
-tags:
-  - Study
+author: "Rin"
 ---
 
 先把虚拟机搭建起来

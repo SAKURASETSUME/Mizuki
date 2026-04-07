@@ -1,17 +1,9 @@
 ---
-title: "内核升级"
+title: "Linux笔记 - Linux基础知识 - 高级 - Linux内核源码 - 内核升级"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/高级/Linux内核源码/内核升级/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 高级
-  - Linux内核源码
-  - 内核升级
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 步骤

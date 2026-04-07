@@ -1,16 +1,9 @@
 ---
-title: "用户管理"
+title: "Linux笔记 - 常用服务搭建 - 堡垒机-JumpServer - 用户管理"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用服务搭建/堡垒机-JumpServer/用户管理/
-categories:
-  - Linux笔记
-  - 常用服务搭建
-  - 堡垒机-JumpServer
-  - 用户管理
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 主要用途

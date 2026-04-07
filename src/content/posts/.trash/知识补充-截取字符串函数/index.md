@@ -1,14 +1,9 @@
 ---
-title: "知识补充-截取字符串函数"
+title: ".trash - 知识补充-截取字符串函数"
+category: ".trash"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/.trash/知识补充-截取字符串函数/
-categories:
-  - .trash
-  - 知识补充-截取字符串函数
-tags:
-  - Study
+author: "Rin"
 ---
 
 三大法宝：mid(),substr(),left()

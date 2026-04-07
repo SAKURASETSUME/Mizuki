@@ -1,13 +1,9 @@
 ---
 title: "Git常用命令"
+category: "Git常用命令"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Git常用命令/
-categories:
-  - Git常用命令
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 仓库操作

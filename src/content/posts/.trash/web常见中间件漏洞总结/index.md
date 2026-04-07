@@ -1,14 +1,9 @@
 ---
-title: "web常见中间件漏洞总结"
+title: ".trash - web常见中间件漏洞总结"
+category: ".trash"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/.trash/web常见中间件漏洞总结/
-categories:
-  - .trash
-  - web常见中间件漏洞总结
-tags:
-  - Study
+author: "Rin"
 ---
 
 [[web常见中间件漏洞总结]]

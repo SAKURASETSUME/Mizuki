@@ -1,16 +1,9 @@
 ---
-title: "知识补充-正则表达式攻击"
+title: "网安笔记 - web漏洞 - sql注入 - 知识补充-正则表达式攻击"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/web漏洞/sql注入/知识补充-正则表达式攻击/
-categories:
-  - 网安笔记
-  - web漏洞
-  - sql注入
-  - 知识补充-正则表达式攻击
-tags:
-  - Study
+author: "Rin"
 ---
 
 我们都已经知道，在MYSQL 5+中 information_schema库中存储了所有的 库名，表明以及字段名信息。故攻击方式如下：

@@ -1,17 +1,9 @@
 ---
-title: "阅读linux 0.01"
+title: "Linux笔记 - Linux基础知识 - 高级 - Linux内核源码 - 阅读linux 0.01"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/高级/Linux内核源码/阅读linux 0.01/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 高级
-  - Linux内核源码
-  - 阅读linux 0.01
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 阅读技巧

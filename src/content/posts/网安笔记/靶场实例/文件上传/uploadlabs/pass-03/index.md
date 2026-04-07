@@ -1,17 +1,9 @@
 ---
-title: "pass-03"
+title: "网安笔记 - 靶场实例 - 文件上传 - uploadlabs - pass-03"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/文件上传/uploadlabs/pass-03/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - 文件上传
-  - uploadlabs
-  - pass-03
-tags:
-  - Study
+author: "Rin"
 ---
 
 还是先看代码

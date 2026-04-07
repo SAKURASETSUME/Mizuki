@@ -1,17 +1,9 @@
 ---
-title: "crond任务调度"
+title: "Linux笔记 - Linux基础知识 - 实操 - 定时任务调度 - crond任务调度"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/实操/定时任务调度/crond任务调度/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 实操
-  - 定时任务调度
-  - crond任务调度
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## crond 任务调度

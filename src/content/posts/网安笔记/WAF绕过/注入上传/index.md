@@ -1,15 +1,9 @@
 ---
-title: "一、思维导图"
+title: "网安笔记 - WAF绕过 - 注入上传"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/WAF绕过/注入上传/
-categories:
-  - 网安笔记
-  - WAF绕过
-  - 注入上传
-tags:
-  - Study
+author: "Rin"
 ---
 
 # 一、思维导图

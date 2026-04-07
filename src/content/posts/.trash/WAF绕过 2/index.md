@@ -1,14 +1,9 @@
 ---
-title: "WAF绕过 2"
+title: ".trash - WAF绕过 2"
+category: ".trash"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/.trash/WAF绕过 2/
-categories:
-  - .trash
-  - WAF绕过 2
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 网络资源

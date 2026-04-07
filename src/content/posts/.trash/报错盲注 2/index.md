@@ -1,14 +1,9 @@
 ---
-title: "报错盲注 2"
+title: ".trash - 报错盲注 2"
+category: ".trash"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/.trash/报错盲注 2/
-categories:
-  - .trash
-  - 报错盲注 2
-tags:
-  - Study
+author: "Rin"
 ---
 
 当进行SQL注入时，有很多注入会出现无回显的情况，其中不回显的原因可能是SQL语句查询方式的问题导致，这个时候我们需要用到相关的报错或盲注进行后续操作，同时作为手工注入时，提前了解或预知其SQL语句大概写法也能更好的选择对应的注入语句。

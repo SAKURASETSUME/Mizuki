@@ -1,18 +1,9 @@
 ---
-title: "基本概念 反向代理简单配置"
+title: "Linux笔记 - 常用web服务应用搭建 - Nginx - 基本使用 - 负载均衡 - 基本概念 反向代理简单配置"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/基本使用/负载均衡/基本概念 反向代理简单配置/
-categories:
-  - Linux笔记
-  - 常用web服务应用搭建
-  - Nginx
-  - 基本使用
-  - 负载均衡
-  - 基本概念 反向代理简单配置
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 服务器的集群

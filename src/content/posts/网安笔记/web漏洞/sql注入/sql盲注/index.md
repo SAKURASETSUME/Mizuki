@@ -1,16 +1,9 @@
 ---
-title: "sql盲注"
+title: "网安笔记 - web漏洞 - sql注入 - sql盲注"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/web漏洞/sql注入/sql盲注/
-categories:
-  - 网安笔记
-  - web漏洞
-  - sql注入
-  - sql盲注
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 概念详解

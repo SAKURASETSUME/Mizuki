@@ -1,17 +1,9 @@
 ---
-title: "远程登录"
+title: "Linux笔记 - Linux基础知识 - 实操 - 远程登录 文件传输 - 远程登录"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/实操/远程登录 文件传输/远程登录/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 实操
-  - 远程登录 文件传输
-  - 远程登录
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 登陆工具

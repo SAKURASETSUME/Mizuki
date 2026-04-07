@@ -1,16 +1,9 @@
 ---
-title: "Maven"
+title: "Linux笔记 - 常用服务搭建 - Nexus - Maven"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用服务搭建/Nexus/Maven/
-categories:
-  - Linux笔记
-  - 常用服务搭建
-  - Nexus
-  - Maven
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 作用

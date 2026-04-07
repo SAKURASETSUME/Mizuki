@@ -1,13 +1,9 @@
 ---
 title: "ascii码表"
+category: "ascii码表"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/ascii码表/
-categories:
-  - ascii码表
-tags:
-  - Study
+author: "Rin"
 ---
 
 |     |     |     |     |        |

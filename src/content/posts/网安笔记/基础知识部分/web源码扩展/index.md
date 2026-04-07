@@ -1,15 +1,9 @@
 ---
-title: "web源码扩展"
+title: "网安笔记 - 基础知识部分 - web源码扩展"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/基础知识部分/web源码扩展/
-categories:
-  - 网安笔记
-  - 基础知识部分
-  - web源码扩展
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 1、WEB源码拓展

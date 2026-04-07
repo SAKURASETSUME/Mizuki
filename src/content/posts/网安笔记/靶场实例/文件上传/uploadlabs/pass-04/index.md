@@ -1,17 +1,9 @@
 ---
-title: "pass-04"
+title: "网安笔记 - 靶场实例 - 文件上传 - uploadlabs - pass-04"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/文件上传/uploadlabs/pass-04/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - 文件上传
-  - uploadlabs
-  - pass-04
-tags:
-  - Study
+author: "Rin"
 ---
 
 老规矩 源码直接放上来

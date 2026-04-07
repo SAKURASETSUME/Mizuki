@@ -1,16 +1,9 @@
 ---
-title: "SWPU 2024 新生引导-Ser2"
+title: "网安笔记 - 靶场实例 - 反序列化 - SWPU 2024 新生引导-Ser2"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/反序列化/SWPU 2024 新生引导-Ser2/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - 反序列化
-  - SWPU 2024 新生引导-Ser2
-tags:
-  - Study
+author: "Rin"
 ---
 
 找到的代码

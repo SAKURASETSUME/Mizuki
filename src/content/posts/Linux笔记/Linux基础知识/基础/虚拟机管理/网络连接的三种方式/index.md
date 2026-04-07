@@ -1,17 +1,9 @@
 ---
-title: "网络连接的三种方式"
+title: "Linux笔记 - Linux基础知识 - 基础 - 虚拟机管理 - 网络连接的三种方式"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/基础/虚拟机管理/网络连接的三种方式/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 基础
-  - 虚拟机管理
-  - 网络连接的三种方式
-tags:
-  - Study
+author: "Rin"
 ---
 
 * 桥接模式：如果想要虚拟系统和外界系统通讯 那么虚拟系统的ip就要和主机在同一个网段（同一个网段最多只能放255个ip 如果同一网段内虚拟系统过多 就容易造成ip冲突）

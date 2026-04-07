@@ -1,17 +1,9 @@
 ---
-title: "pass-05"
+title: "网安笔记 - 靶场实例 - 文件上传 - uploadlabs - pass-05"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/靶场实例/文件上传/uploadlabs/pass-05/
-categories:
-  - 网安笔记
-  - 靶场实例
-  - 文件上传
-  - uploadlabs
-  - pass-05
-tags:
-  - Study
+author: "Rin"
 ---
 
 源代码环节

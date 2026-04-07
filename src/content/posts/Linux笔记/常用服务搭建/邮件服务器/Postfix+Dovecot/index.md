@@ -1,16 +1,9 @@
 ---
-title: "Postfix+Dovecot"
+title: "Linux笔记 - 常用服务搭建 - 邮件服务器 - Postfix+Dovecot"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用服务搭建/邮件服务器/Postfix+Dovecot/
-categories:
-  - Linux笔记
-  - 常用服务搭建
-  - 邮件服务器
-  - Postfix+Dovecot
-tags:
-  - Study
+author: "Rin"
 ---
 
 ```bash

@@ -1,14 +1,9 @@
 ---
-title: "文件上传基础知识"
+title: ".trash - 文件上传基础知识"
+category: ".trash"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/.trash/文件上传基础知识/
-categories:
-  - .trash
-  - 文件上传基础知识
-tags:
-  - Study
+author: "Rin"
 ---
 
 ### 思维导图

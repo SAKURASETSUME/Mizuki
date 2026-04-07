@@ -1,17 +1,9 @@
 ---
-title: "磁盘实用指令汇总"
+title: "Linux笔记 - Linux基础知识 - 实操 - 磁盘分区机制 - 磁盘实用指令汇总"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/实操/磁盘分区机制/磁盘实用指令汇总/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 实操
-  - 磁盘分区机制
-  - 磁盘实用指令汇总
-tags:
-  - Study
+author: "Rin"
 ---
 
 ## 统计/opt文件夹下文件的个数

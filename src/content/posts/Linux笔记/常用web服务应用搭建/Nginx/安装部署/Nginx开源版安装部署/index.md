@@ -1,17 +1,9 @@
 ---
-title: "Nginx开源版安装部署"
+title: "Linux笔记 - 常用web服务应用搭建 - Nginx - 安装部署 - Nginx开源版安装部署"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/常用web服务应用搭建/Nginx/安装部署/Nginx开源版安装部署/
-categories:
-  - Linux笔记
-  - 常用web服务应用搭建
-  - Nginx
-  - 安装部署
-  - Nginx开源版安装部署
-tags:
-  - Study
+author: "Rin"
 ---
 
 ```bash

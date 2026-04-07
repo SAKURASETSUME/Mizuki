@@ -1,15 +1,9 @@
 ---
-title: "一、思维导图"
+title: "网安笔记 - 代码审计 - php无框架sql注入"
+category: "网安笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/网安笔记/代码审计/php无框架sql注入/
-categories:
-  - 网安笔记
-  - 代码审计
-  - php无框架sql注入
-tags:
-  - Study
+author: "Rin"
 ---
 
 # 一、思维导图

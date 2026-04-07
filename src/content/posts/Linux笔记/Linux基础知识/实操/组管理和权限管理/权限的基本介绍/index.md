@@ -1,17 +1,9 @@
 ---
-title: "权限的基本介绍"
+title: "Linux笔记 - Linux基础知识 - 实操 - 组管理和权限管理 - 权限的基本介绍"
+category: "Linux笔记"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/Linux笔记/Linux基础知识/实操/组管理和权限管理/权限的基本介绍/
-categories:
-  - Linux笔记
-  - Linux基础知识
-  - 实操
-  - 组管理和权限管理
-  - 权限的基本介绍
-tags:
-  - Study
+author: "Rin"
 ---
 
 ls -l中显示的内容如下:

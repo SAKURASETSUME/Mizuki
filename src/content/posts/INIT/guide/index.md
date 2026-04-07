@@ -1,14 +1,9 @@
 ---
-title: "guide"
+title: "INIT - guide"
+category: "INIT"
 date: 2026-04-07
 published: 2026-04-07
-author: Rin
-permalink: /posts/INIT/guide/
-categories:
-  - INIT
-  - guide
-tags:
-  - Study
+author: "Rin"
 ---
 
 This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).
