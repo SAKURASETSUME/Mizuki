@@ -36,7 +36,7 @@ chmod -R 777 bbs/
  90 
  91 ssl_certificate www.nakatsusizuru.top.pem;
  92 ssl_certificate_key www.nakatsusizuru.top.key;
- 93 
+ 93 	root /usr/local/nginx/html/bbs
  94     index index.html index.htm index.php;
  95     #error_page 404 /404.html;
  96     #error_page 502 /502.html;
