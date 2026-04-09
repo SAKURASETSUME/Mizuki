@@ -1,8 +1,8 @@
 ---
 title: "网安笔记 - 靶场实例 - RCE - CTF - 有回显 - GXYCTF 2019-Ping Ping Ping"
 category: "网安笔记"
-date: 2026-04-07
-published: 2026-04-07
+date: 2026-04-09
+published: 2026-04-09
 author: "Rin"
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: ".trash - SWPUCTF 2021 新生赛-hardrce"
 category: ".trash"
-date: 2026-04-07
-published: 2026-04-07
+date: 2026-04-09
+published: 2026-04-09
 author: "Rin"
 ---
 

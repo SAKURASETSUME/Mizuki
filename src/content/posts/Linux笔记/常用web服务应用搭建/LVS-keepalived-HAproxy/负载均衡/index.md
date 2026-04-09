@@ -1,8 +1,8 @@
 ---
-title: "常用web服务应用搭建 - LVS-keepalived-HAproxy - 负载均衡"
-category: "常用web服务应用搭建"
-date: 2026-04-08
-published: 2026-04-08
+title: "Linux笔记 - 常用web服务应用搭建 - LVS-keepalived-HAproxy - 负载均衡"
+category: "Linux笔记"
+date: 2026-04-09
+published: 2026-04-09
 author: "Rin"
 ---
 

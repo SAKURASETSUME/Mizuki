@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - 常用web服务应用搭建 - Nginx - 基本使用 - 负载均衡 - 负载均衡基本配置"
 category: "Linux笔记"
-date: 2026-04-07
-published: 2026-04-07
+date: 2026-04-09
+published: 2026-04-09
 author: "Rin"
 ---
 

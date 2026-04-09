@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - Linux基础知识 - 实操 - 磁盘分区机制 - 磁盘实用指令汇总"
 category: "Linux笔记"
-date: 2026-04-07
-published: 2026-04-07
+date: 2026-04-09
+published: 2026-04-09
 author: "Rin"
 ---
 

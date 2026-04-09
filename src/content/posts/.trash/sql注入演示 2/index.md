@@ -1,8 +1,8 @@
 ---
 title: ".trash - sql注入演示 2"
 category: ".trash"
-date: 2026-04-07
-published: 2026-04-07
+date: 2026-04-09
+published: 2026-04-09
 author: "Rin"
 ---
 

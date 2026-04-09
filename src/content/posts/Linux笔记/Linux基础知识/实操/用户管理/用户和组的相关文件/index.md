@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - Linux基础知识 - 实操 - 用户管理 - 用户和组的相关文件"
 category: "Linux笔记"
-date: 2026-04-07
-published: 2026-04-07
+date: 2026-04-09
+published: 2026-04-09
 author: "Rin"
 ---
 

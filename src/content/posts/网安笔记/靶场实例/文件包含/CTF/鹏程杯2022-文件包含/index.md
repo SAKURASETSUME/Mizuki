@@ -1,8 +1,8 @@
 ---
 title: "网安笔记 - 靶场实例 - 文件包含 - CTF - 鹏程杯2022-文件包含"
 category: "网安笔记"
-date: 2026-04-07
-published: 2026-04-07
+date: 2026-04-09
+published: 2026-04-09
 author: "Rin"
 ---
 

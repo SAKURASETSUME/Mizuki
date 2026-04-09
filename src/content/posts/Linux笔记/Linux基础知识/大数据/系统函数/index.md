@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - Linux基础知识 - 大数据 - 系统函数"
 category: "Linux笔记"
-date: 2026-04-07
-published: 2026-04-07
+date: 2026-04-09
+published: 2026-04-09
 author: "Rin"
 ---
 

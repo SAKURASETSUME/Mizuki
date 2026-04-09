@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - Linux基础知识 - 实操 - 网络配置 - 网络配置指令"
 category: "Linux笔记"
-date: 2026-04-07
-published: 2026-04-07
+date: 2026-04-09
+published: 2026-04-09
 author: "Rin"
 ---
 

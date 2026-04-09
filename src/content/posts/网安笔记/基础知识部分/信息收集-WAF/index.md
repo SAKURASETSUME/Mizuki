@@ -1,8 +1,8 @@
 ---
 title: "网安笔记 - 基础知识部分 - 信息收集-WAF"
 category: "网安笔记"
-date: 2026-04-07
-published: 2026-04-07
+date: 2026-04-09
+published: 2026-04-09
 author: "Rin"
 ---
 

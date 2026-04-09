@@ -1,18 +1,10 @@
 ---
 title: "问题集 - 使用SakuraFrp实现内网穿透"
-published: 2026-04-08
-pinned: true
-description: "用SakuraFrp来实现把内网的服务部署到外网上去"
-tags: [Study, Blog]
-category: 问题集
-licenseName: "Unlicensed"
-author: Rin
-draft: false
-date: 2026-04-08
-pubDate: 2026-04-08
+category: "问题集"
+date: 2026-04-09
+published: 2026-04-09
+author: "Rin"
 ---
-
- 
 
 ## 先下载SakuraFrp软件
 
