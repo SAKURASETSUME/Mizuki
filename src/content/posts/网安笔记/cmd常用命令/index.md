@@ -1,8 +1,8 @@
 ---
-title: "cmd常用命令"
-category: "cmd常用命令"
-date: 2026-04-09
-published: 2026-04-09
+title: "网安笔记 - cmd常用命令"
+category: "网安笔记"
+date: 2025-11-01
+published: 2025-11-01
 author: "Rin"
 ---
 

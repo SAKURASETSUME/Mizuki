@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - 常用web服务应用搭建 - Nginx - 线上 - 操作指南"
 category: "Linux笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2026-04-06
+published: 2026-04-06
 author: "Rin"
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "网安笔记 - web漏洞 - 文件包含"
 category: "网安笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2025-11-01
+published: 2025-11-01
 author: "Rin"
 ---
 

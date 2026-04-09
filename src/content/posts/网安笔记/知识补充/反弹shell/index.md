@@ -1,8 +1,8 @@
 ---
 title: "网安笔记 - 知识补充 - 反弹shell"
 category: "网安笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2025-11-08
+published: 2025-11-08
 author: "Rin"
 ---
 

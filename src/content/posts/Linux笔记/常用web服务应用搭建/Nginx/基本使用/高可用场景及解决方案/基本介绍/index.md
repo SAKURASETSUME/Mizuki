@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - 常用web服务应用搭建 - Nginx - 基本使用 - 高可用场景及解决方案 - 基本介绍"
 category: "Linux笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2026-04-02
+published: 2026-04-02
 author: "Rin"
 ---
 

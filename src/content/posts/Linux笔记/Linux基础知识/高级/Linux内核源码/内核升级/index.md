@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - Linux基础知识 - 高级 - Linux内核源码 - 内核升级"
 category: "Linux笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2026-03-16
+published: 2026-03-16
 author: "Rin"
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "网安笔记 - web漏洞 - sql注入 - 参数提交注入"
 category: "网安笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2025-11-09
+published: 2025-11-09
 author: "Rin"
 ---
 

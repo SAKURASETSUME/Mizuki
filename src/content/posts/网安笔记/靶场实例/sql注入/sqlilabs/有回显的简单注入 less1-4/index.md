@@ -1,8 +1,8 @@
 ---
 title: "网安笔记 - 靶场实例 - sql注入 - sqlilabs - 有回显的简单注入 less1-4"
 category: "网安笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2025-11-01
+published: 2025-11-01
 author: "Rin"
 ---
 

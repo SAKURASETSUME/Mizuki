@@ -1,8 +1,8 @@
 ---
 title: "网安笔记 - 靶场实例 - 反序列化 - 2020-网鼎杯-青龙组-Web-AreUSerialz"
 category: "网安笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2025-11-09
+published: 2025-11-09
 author: "Rin"
 ---
 

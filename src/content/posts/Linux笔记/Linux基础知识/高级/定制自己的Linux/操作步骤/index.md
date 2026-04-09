@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - Linux基础知识 - 高级 - 定制自己的Linux - 操作步骤"
 category: "Linux笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2026-03-13
+published: 2026-03-13
 author: "Rin"
 ---
 

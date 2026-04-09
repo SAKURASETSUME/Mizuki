@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - 常用服务搭建 - DNS服务器 - DNS基础与IP地址划分"
 category: "Linux笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2026-03-19
+published: 2026-03-19
 author: "Rin"
 ---
 

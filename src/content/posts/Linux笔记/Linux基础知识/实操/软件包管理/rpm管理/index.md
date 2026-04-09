@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - Linux基础知识 - 实操 - 软件包管理 - rpm管理"
 category: "Linux笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2026-03-12
+published: 2026-03-12
 author: "Rin"
 ---
 

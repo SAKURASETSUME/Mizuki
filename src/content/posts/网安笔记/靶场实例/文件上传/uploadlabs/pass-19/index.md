@@ -1,8 +1,8 @@
 ---
 title: "网安笔记 - 靶场实例 - 文件上传 - uploadlabs - pass-19"
 category: "网安笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2025-11-04
+published: 2025-11-04
 author: "Rin"
 ---
 

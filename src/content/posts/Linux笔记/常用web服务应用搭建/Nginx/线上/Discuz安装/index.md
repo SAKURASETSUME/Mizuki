@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - 常用web服务应用搭建 - Nginx - 线上 - Discuz安装"
 category: "Linux笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2026-04-08
+published: 2026-04-08
 author: "Rin"
 ---
 
@@ -36,7 +36,7 @@ chmod -R 777 bbs/
  90 
  91 ssl_certificate www.nakatsusizuru.top.pem;
  92 ssl_certificate_key www.nakatsusizuru.top.key;
- 93 	root /usr/local/nginx/html/bbs
+ 93     root /usr/local/nginx/html/bbs
  94     index index.html index.htm index.php;
  95     #error_page 404 /404.html;
  96     #error_page 502 /502.html;

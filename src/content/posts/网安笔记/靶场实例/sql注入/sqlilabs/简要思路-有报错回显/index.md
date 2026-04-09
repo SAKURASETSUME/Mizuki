@@ -1,8 +1,8 @@
 ---
 title: "网安笔记 - 靶场实例 - sql注入 - sqlilabs - 简要思路-有报错回显"
 category: "网安笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2025-10-30
+published: 2025-10-30
 author: "Rin"
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - Linux基础知识 - 大数据 - 设置环境变量"
 category: "Linux笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2026-03-12
+published: 2026-03-12
 author: "Rin"
 ---
 

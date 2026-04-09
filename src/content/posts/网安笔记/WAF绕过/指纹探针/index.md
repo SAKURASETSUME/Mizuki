@@ -1,8 +1,8 @@
 ---
 title: "网安笔记 - WAF绕过 - 指纹探针"
 category: "网安笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2025-11-14
+published: 2025-11-14
 author: "Rin"
 ---
 

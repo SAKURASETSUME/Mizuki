@@ -1,8 +1,8 @@
 ---
 title: "网安笔记 - 知识补充 - file协议"
 category: "网安笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2025-10-31
+published: 2025-10-31
 author: "Rin"
 ---
 

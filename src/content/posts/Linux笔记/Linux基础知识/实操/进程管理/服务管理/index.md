@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - Linux基础知识 - 实操 - 进程管理 - 服务管理"
 category: "Linux笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2026-04-02
+published: 2026-04-02
 author: "Rin"
 ---
 

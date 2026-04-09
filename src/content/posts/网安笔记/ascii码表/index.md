@@ -1,8 +1,8 @@
 ---
-title: "ascii码表"
-category: "ascii码表"
-date: 2026-04-09
-published: 2026-04-09
+title: "网安笔记 - ascii码表"
+category: "网安笔记"
+date: 2025-10-30
+published: 2025-10-30
 author: "Rin"
 ---
 

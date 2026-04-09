@@ -1,8 +1,8 @@
 ---
 title: "Linux笔记 - Linux基础知识 - 面试题 - 找回Mysql的root密码"
 category: "Linux笔记"
-date: 2026-04-09
-published: 2026-04-09
+date: 2026-03-23
+published: 2026-03-23
 author: "Rin"
 ---
 
