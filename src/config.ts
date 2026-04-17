@@ -277,12 +277,12 @@ export const navBarConfig: NavBarConfig = {
 			url: "/links/",
 			icon: "material-symbols:link",
 			children: [
-				{
+				/*{
 					name: "GitHub",
 					url: "https://github.com/SAKURASETSUME",
 					external: true,
 					icon: "fa7-brands:github",
-				},
+				},*/
 				{
 					name: "Bilibili",
 					url: "https://space.bilibili.com/87273092",
@@ -391,12 +391,12 @@ export const profileConfig: ProfileConfig = {
 			name: "Bangumi",
 			icon: "mdi:television-classic",
 			url: "https://bgm.tv/user/natsumerindaze",
-		},
+	/*	},
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
 			url: "https://github.com/SAKURASETSUME",
-		},
+		},*/
 		{
 			name: "Yuque",
 			icon: "mdi:file-document-multiple",
