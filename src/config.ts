@@ -391,8 +391,8 @@ export const profileConfig: ProfileConfig = {
 			name: "Bangumi",
 			icon: "mdi:television-classic",
 			url: "https://bgm.tv/user/natsumerindaze",
-	/*	},
-		{
+		},
+		/*{
 			name: "GitHub",
 			icon: "fa7-brands:github",
 			url: "https://github.com/SAKURASETSUME",
