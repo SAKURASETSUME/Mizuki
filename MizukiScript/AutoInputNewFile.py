@@ -3,7 +3,7 @@ from datetime import datetime
 
 # ================= 配置区 =================
 INPUT = r"E:\Obsidian管理\Linux笔记"
-POSTS_ROOT = r"E:\Blog\src\content\posts"
+POSTS_ROOT = r"E:\Mizuki\Blog\src\content\posts"
 BLOG_ROOT = os.path.join(POSTS_ROOT, "Linux笔记")   # 只同步到这里
 AUTHOR = "Rin"
 ROOT_NAME = "Linux笔记"
