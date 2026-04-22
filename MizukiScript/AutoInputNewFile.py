@@ -1,50 +1,9 @@
 import os
 from datetime import datetime
 
-# ================= 配置区 =================
-INPUT = r"E:\Obsidian管理\Linux笔记"
-POSTS_ROOT = r"E:\Mizuki\Blog\src\content\posts"
-BLOG_ROOT = os.path.join(POSTS_ROOT, "Linux笔记")   # 只同步到这里
-AUTHOR = "Rin"
-ROOT_NAME = "Linux笔记"
-# =========================================
-
-
-def read_file(path):
-    try:
-        with open(path, "r", encoding="utf-8-sig") as f:
-            return f.read().strip()
-    except:
-        return ""
-
-
-def build_target_path(src_file):
-    """
-    源文件:
-    E:\Obsidian管理\Linux笔记\数据库\基础\事务\test.md
-
-    输出:
-    E:\Blog\src\content\posts\Linux笔记\数据库\基础\事务\test\index.md
-    """
-    rel_file = os.path.relpath(src_file, INPUT)
-    rel_no_ext = os.path.splitext(rel_file)[0]
-
-    target_dir = os.path.join(BLOG_ROOT, rel_no_ext)
-    target_file = os.path.join(target_dir, "index.md")
-
-    return target_dir, target_file
-
-
-def build_title(target_dir):
-    rel_dir = os.path.relpath(target_dir, POSTS_ROOT)
-    parts = rel_dir.replace("\\", "/").split("/")
-    return " - ".join(parts)
-import os
-from datetime import datetime
-
 INPUT       = r"E:\Obsidian管理\Linux笔记"
-OUTPUT      = r"E:\Blog\src\content\posts\Linux笔记"
-POSTS_ROOT  = r"E:\Blog\src\content\posts"
+OUTPUT      = r"E:\Blog\Mizuki\src\content\posts\Linux笔记"
+POSTS_ROOT  = r"E:\Blog\Mizuki\src\content\posts"
 AUTHOR      = "Rin"
 
 
