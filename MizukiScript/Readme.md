@@ -16,3 +16,6 @@ git status
 git push
 ```
 
+
+
+**ps:脚本更新了 建议日常只使用AutoInputNewFile 这个脚本的作用是只增加新文件 已经存在的文件不进行修改**
