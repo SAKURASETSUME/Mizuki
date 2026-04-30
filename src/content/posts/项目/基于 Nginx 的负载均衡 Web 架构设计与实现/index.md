@@ -140,6 +140,9 @@ upstream servertest {
 
 #配置proxy头和超时控制 host参数是把客户端请求的host头传给后端的 比如用户访问www.test.com 如果你不配置host参数 那么后端看到的是nginx服务器的ip 配了之后 后端看到的就是www.test.com了
 #X-Real-IP这个参数 作用是把客户端的真实IP传给后端 如果不加 192.168.29.1访问nginx 那么后端日志看到的IP就是nginx服务器的IP了 加了之后 后端就可以拿到192.168.29.1
+#proxy_connect_timout控制的是连接时间 如果配置了这个参数 当客户端与服务器连接时间超过3s的时候 那么客户端会直接看到连接超时的页面
+#proxy_read_timeout控制的是响应时间 配置之后 当客户端成功与服务器建立连接 但是一定时间内没有被服务器响应 就会返回错误页面
+#这两条超时时间如果想要在超时之后定向到其它服务器 需要额外配置参数proxy_next_upstream
 location / {
     proxy_pass http://servertest;
 
@@ -168,13 +171,14 @@ upstream servertest {
 
         #access_log  logs/host.access.log  main;
 
-        location / {
-       	      proxy_pass      http://servertest; 
-              proxy_set_header Host $host;
-    		  proxy_set_header X-Real-IP $remote_addr;
-    		  proxy_connect_timeout 3s;
-    		  proxy_read_timeout 5s;
-        }
+ location / {
+    proxy_pass http://servertest;
+
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_connect_timeout 3s;
+    proxy_read_timeout 5s;
+}
 ```
 
 
