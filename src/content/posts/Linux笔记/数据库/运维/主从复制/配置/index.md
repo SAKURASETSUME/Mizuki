@@ -87,4 +87,5 @@ start slave; #8.0.22之前
 ```mysql
 show replica status\G; #\G是把列转换为行来展示 用于数据库比较大 默认查看不方便看的情况
 show slave status\G;
+#只要看到了Slave_IO_Running为YES Slave_SQL_Running也为YES就是配置成功
 ```
