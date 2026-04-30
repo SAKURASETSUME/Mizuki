@@ -2,7 +2,7 @@
 title: "项目 - 基于 Nginx 的负载均衡 Web 架构设计与实现"
 category: "项目"
 date: 2026-04-30
-published: 2026-04-030
+published: 2026-04-30
 author: "Rin"
 ---
 
